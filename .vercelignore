@@ -1,0 +1,2 @@
+# mutable local runtime state — must not be baked into deployments
+data/db.json

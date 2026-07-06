@@ -7,7 +7,7 @@
   "close": "22:30"
  },
  "dryDay": false,
- "windowOverride": false,
+ "windowOverride": true,
  "commissionPct": 12,
  "deliveryFee": 40,
  "convenienceFee": 15

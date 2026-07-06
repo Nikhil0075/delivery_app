@@ -113,7 +113,9 @@ STATE_CONFIG = {
     "legalAge": 18,
     "deliveryWindow": {"open": "10:00", "close": "22:30"},
     "dryDay": False,
-    "windowOverride": False,
+    # demo default: keep the hosted prototype orderable at any hour;
+    # turn off in Admin -> Compliance to see the excise-window enforcement
+    "windowOverride": True,
     "commissionPct": 12,
     "deliveryFee": 40,
     "convenienceFee": 15,

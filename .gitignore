@@ -43,3 +43,5 @@ next-env.d.ts
 # mutable runtime state (regenerated from seed data)
 data/db.json
 
+.vercel
+.env*
