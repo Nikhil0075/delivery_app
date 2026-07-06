@@ -1,0 +1,82 @@
+[
+ {
+  "id": "four-friends",
+  "name": "Four Friends Beverages",
+  "area": "District Center, Chandrasekharpur",
+  "address": "District Center, Chandrasekharpur, Bhubaneswar 751016",
+  "licenceNo": "OD-EXC-BBSR-16358",
+  "lat": 20.3237,
+  "lng": 85.8195,
+  "serviceRadiusKm": 7,
+  "rating": 4.5,
+  "hours": {
+   "open": "10:00",
+   "close": "22:30"
+  },
+  "status": "ACTIVE"
+ },
+ {
+  "id": "patia-wine-store",
+  "name": "Patia Wine Store",
+  "area": "Patia",
+  "address": "KIIT Road, Patia, Bhubaneswar 751024",
+  "licenceNo": "OD-EXC-BBSR-17204",
+  "lat": 20.352,
+  "lng": 85.8235,
+  "serviceRadiusKm": 5,
+  "rating": 4.2,
+  "hours": {
+   "open": "10:00",
+   "close": "22:30"
+  },
+  "status": "ACTIVE"
+ },
+ {
+  "id": "saheed-nagar-liquors",
+  "name": "Saheed Nagar Liquors",
+  "area": "Saheed Nagar",
+  "address": "Janpath, Saheed Nagar, Bhubaneswar 751007",
+  "licenceNo": "OD-EXC-BBSR-15990",
+  "lat": 20.29,
+  "lng": 85.842,
+  "serviceRadiusKm": 4,
+  "rating": 4.0,
+  "hours": {
+   "open": "10:00",
+   "close": "22:30"
+  },
+  "status": "ACTIVE"
+ },
+ {
+  "id": "khandagiri-beverages",
+  "name": "Khandagiri Beverages",
+  "area": "Khandagiri",
+  "address": "NH-16, Khandagiri Square, Bhubaneswar 751030",
+  "licenceNo": "OD-EXC-BBSR-16871",
+  "lat": 20.254,
+  "lng": 85.7789,
+  "serviceRadiusKm": 6,
+  "rating": 3.9,
+  "hours": {
+   "open": "10:00",
+   "close": "22:30"
+  },
+  "status": "ACTIVE"
+ },
+ {
+  "id": "old-town-wine-shop",
+  "name": "Old Town Wine Shop",
+  "area": "Old Town",
+  "address": "Near Lingaraj Temple Road, Old Town, Bhubaneswar 751002",
+  "licenceNo": "OD-EXC-BBSR-15511",
+  "lat": 20.238,
+  "lng": 85.834,
+  "serviceRadiusKm": 3,
+  "rating": 4.1,
+  "hours": {
+   "open": "10:00",
+   "close": "22:30"
+  },
+  "status": "ACTIVE"
+ }
+]

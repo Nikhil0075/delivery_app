@@ -1,0 +1,14 @@
+{
+ "state": "Odisha",
+ "city": "Bhubaneswar",
+ "legalAge": 18,
+ "deliveryWindow": {
+  "open": "10:00",
+  "close": "22:30"
+ },
+ "dryDay": false,
+ "windowOverride": false,
+ "commissionPct": 12,
+ "deliveryFee": 40,
+ "convenienceFee": 15
+}

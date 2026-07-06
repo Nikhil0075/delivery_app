@@ -1,0 +1,761 @@
+{
+ "customers": [
+  {
+   "id": "cust-ravi",
+   "name": "Ravi Mohapatra",
+   "mobile": "9876500011",
+   "ageVerified": true,
+   "addresses": [
+    {
+     "id": "addr-ravi-1",
+     "label": "Home",
+     "line1": "Plot 42, Sailashree Vihar",
+     "area": "Chandrasekharpur",
+     "lat": 20.3305,
+     "lng": 85.8102
+    },
+    {
+     "id": "addr-ravi-2",
+     "label": "Office",
+     "line1": "DLF Cybercity, Tower B",
+     "area": "Patia",
+     "lat": 20.3489,
+     "lng": 85.826
+    }
+   ]
+  },
+  {
+   "id": "cust-anita",
+   "name": "Anita Sahoo",
+   "mobile": "9876500022",
+   "ageVerified": true,
+   "addresses": [
+    {
+     "id": "addr-anita-1",
+     "label": "Home",
+     "line1": "B-12, Maitri Vihar",
+     "area": "Saheed Nagar",
+     "lat": 20.2932,
+     "lng": 85.8388
+    }
+   ]
+  },
+  {
+   "id": "cust-vikram",
+   "name": "Vikram Das",
+   "mobile": "9876500033",
+   "ageVerified": true,
+   "addresses": [
+    {
+     "id": "addr-vikram-1",
+     "label": "Home",
+     "line1": "Qtr 7, Baramunda Housing Board",
+     "area": "Baramunda",
+     "lat": 20.2705,
+     "lng": 85.792
+    }
+   ]
+  }
+ ],
+ "riders": [
+  {
+   "id": "rider-suresh",
+   "name": "Suresh Behera",
+   "mobile": "9988700001",
+   "vehicleNo": "OD-02-AB-1234"
+  },
+  {
+   "id": "rider-prakash",
+   "name": "Prakash Nayak",
+   "mobile": "9988700002",
+   "vehicleNo": "OD-02-CD-5678"
+  },
+  {
+   "id": "rider-md",
+   "name": "Md. Salim",
+   "mobile": "9988700003",
+   "vehicleNo": "OD-02-EF-9012"
+  },
+  {
+   "id": "rider-jitu",
+   "name": "Jitu Pradhan",
+   "mobile": "9988700004",
+   "vehicleNo": "OD-02-GH-3456"
+  }
+ ],
+ "orders": [
+  {
+   "id": "seed-005",
+   "code": "OD-10105",
+   "customerId": "cust-ravi",
+   "shopId": "saheed-nagar-liquors",
+   "addressId": "addr-ravi-1",
+   "items": [
+    {
+     "productId": "camikara-rum-cask-3-yo-aged-750",
+     "name": "CAMIKARA RUM CASK 3 YO AGED (750)",
+     "qty": 2,
+     "unitPrice": 2760,
+     "lineTotal": 5520
+    },
+    {
+     "productId": "blue-lagoon-gin-375",
+     "name": "BLUE LAGOON GIN 375",
+     "qty": 4,
+     "unitPrice": 380,
+     "lineTotal": 1520
+    }
+   ],
+   "subtotal": 7040,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 7095,
+   "status": "DELIVERED",
+   "otp": "4886",
+   "riderId": "rider-md",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-04T12:49:18.630790+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-04T12:49:18.630790+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-04T12:51:18.630790+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-04T12:59:18.630790+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-04T13:05:18.630790+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-04T13:19:18.630790+05:30"
+    }
+   ]
+  },
+  {
+   "id": "seed-012",
+   "code": "OD-10112",
+   "customerId": "cust-ravi",
+   "shopId": "old-town-wine-shop",
+   "addressId": "addr-ravi-1",
+   "items": [
+    {
+     "productId": "blue-lagoon-gin-180",
+     "name": "BLUE LAGOON GIN 180",
+     "qty": 2,
+     "unitPrice": 180,
+     "lineTotal": 360
+    },
+    {
+     "productId": "royal-stag-barrel-375",
+     "name": "ROYAL STAG BARREL 375",
+     "qty": 1,
+     "unitPrice": 470,
+     "lineTotal": 470
+    }
+   ],
+   "subtotal": 830,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 885,
+   "status": "VERIFICATION_FAILED",
+   "otp": "1310",
+   "riderId": "rider-jitu",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-04T14:59:45.670335+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-04T14:59:45.670335+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-04T15:01:45.670335+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-04T15:09:45.670335+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-04T15:15:45.670335+05:30"
+    },
+    {
+     "type": "VERIFICATION_FAILED",
+     "at": "2026-07-04T15:30:45.670335+05:30",
+     "note": "AGE_CHECK_FAILED"
+    }
+   ]
+  },
+  {
+   "id": "seed-011",
+   "code": "OD-10111",
+   "customerId": "cust-ravi",
+   "shopId": "saheed-nagar-liquors",
+   "addressId": "addr-ravi-1",
+   "items": [
+    {
+     "productId": "new-bacardi-ginger-rum-750",
+     "name": "NEW BACARDI GINGER RUM 750",
+     "qty": 2,
+     "unitPrice": 1130,
+     "lineTotal": 2260
+    }
+   ],
+   "subtotal": 2260,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 2315,
+   "status": "CANCELLED",
+   "otp": "2320",
+   "riderId": null,
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-04T21:39:16.681427+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-04T21:39:16.681427+05:30"
+    },
+    {
+     "type": "CANCELLED",
+     "at": "2026-07-04T21:40:16.681427+05:30",
+     "note": "CUSTOMER_CANCELLED"
+    }
+   ]
+  },
+  {
+   "id": "seed-004",
+   "code": "OD-10104",
+   "customerId": "cust-ravi",
+   "shopId": "khandagiri-beverages",
+   "addressId": "addr-ravi-1",
+   "items": [
+    {
+     "productId": "amrut-two-indies-rum-750",
+     "name": "AMRUT TWO INDIES RUM(750)",
+     "qty": 2,
+     "unitPrice": 1500,
+     "lineTotal": 3000
+    }
+   ],
+   "subtotal": 3000,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 3055,
+   "status": "DELIVERED",
+   "otp": "5739",
+   "riderId": "rider-suresh",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-05T01:07:29.810028+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-05T01:07:29.810028+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-05T01:09:29.810028+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-05T01:17:29.810028+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-05T01:23:29.810028+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-05T01:51:29.810028+05:30"
+    }
+   ]
+  },
+  {
+   "id": "seed-008",
+   "code": "OD-10108",
+   "customerId": "cust-anita",
+   "shopId": "old-town-wine-shop",
+   "addressId": "addr-anita-1",
+   "items": [
+    {
+     "productId": "whiscots-rare-whisky-375",
+     "name": "WHISCOTS RARE WHISKY 375",
+     "qty": 2,
+     "unitPrice": 450,
+     "lineTotal": 900
+    },
+    {
+     "productId": "madira-red-wine-750",
+     "name": "MADIRA RED WINE 750",
+     "qty": 1,
+     "unitPrice": 480,
+     "lineTotal": 480
+    }
+   ],
+   "subtotal": 1380,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 1435,
+   "status": "DELIVERED",
+   "otp": "4971",
+   "riderId": "rider-prakash",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-05T08:30:24.371412+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-05T08:30:24.371412+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-05T08:32:24.371412+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-05T08:40:24.371412+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-05T08:46:24.371412+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-05T08:59:24.371412+05:30"
+    }
+   ]
+  },
+  {
+   "id": "seed-006",
+   "code": "OD-10106",
+   "customerId": "cust-anita",
+   "shopId": "four-friends",
+   "addressId": "addr-anita-1",
+   "items": [
+    {
+     "productId": "jacob-s-creek-classic-chardonnay-187",
+     "name": "JACOB\" S CREEK CLASSIC CHARDONNAY(187)",
+     "qty": 4,
+     "unitPrice": 440.0,
+     "lineTotal": 1760.0
+    },
+    {
+     "productId": "blue-lagoon-gin-375",
+     "name": "BLUE LAGOON GIN 375",
+     "qty": 1,
+     "unitPrice": 370.0,
+     "lineTotal": 370.0
+    },
+    {
+     "productId": "bacardi-mango-chilli-ultra-premium-rum-180",
+     "name": "BACARDI MANGO CHILLI ULTRA PREMIUM RUM (180)",
+     "qty": 1,
+     "unitPrice": 280.0,
+     "lineTotal": 280.0
+    }
+   ],
+   "subtotal": 2410.0,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 2465.0,
+   "status": "DELIVERED",
+   "otp": "8429",
+   "riderId": "rider-jitu",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-05T10:41:42.356492+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-05T10:41:42.356492+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-05T10:43:42.356492+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-05T10:51:42.356492+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-05T10:57:42.356492+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-05T11:10:42.356492+05:30"
+    }
+   ]
+  },
+  {
+   "id": "seed-009",
+   "code": "OD-10109",
+   "customerId": "cust-anita",
+   "shopId": "saheed-nagar-liquors",
+   "addressId": "addr-anita-1",
+   "items": [
+    {
+     "productId": "rockford-reserve-750",
+     "name": "ROCKFORD RESERVE 750",
+     "qty": 2,
+     "unitPrice": 1490,
+     "lineTotal": 2980
+    },
+    {
+     "productId": "royal-stag-double-dark-whiskey-750",
+     "name": "ROYAL STAG DOUBLE DARK WHISKEY 750",
+     "qty": 1,
+     "unitPrice": 880,
+     "lineTotal": 880
+    }
+   ],
+   "subtotal": 3860,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 3915,
+   "status": "DELIVERED",
+   "otp": "0353",
+   "riderId": "rider-suresh",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-05T16:45:02.449733+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-05T16:45:02.449733+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-05T16:47:02.449733+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-05T16:55:02.449733+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-05T17:01:02.449733+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-05T17:24:02.449733+05:30"
+    }
+   ]
+  },
+  {
+   "id": "seed-007",
+   "code": "OD-10107",
+   "customerId": "cust-vikram",
+   "shopId": "four-friends",
+   "addressId": "addr-vikram-1",
+   "items": [
+    {
+     "productId": "imperial-blue-whisky-750",
+     "name": "IMPERIAL BLUE WHISKY 750",
+     "qty": 4,
+     "unitPrice": 780.0,
+     "lineTotal": 3120.0
+    },
+    {
+     "productId": "dia-red-wine-sparkler-750",
+     "name": "DIA RED WINE SPARKLER 750",
+     "qty": 3,
+     "unitPrice": 650.0,
+     "lineTotal": 1950.0
+    }
+   ],
+   "subtotal": 5070.0,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 5125.0,
+   "status": "DELIVERED",
+   "otp": "4226",
+   "riderId": "rider-jitu",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-05T21:22:56.818559+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-05T21:22:56.818559+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-05T21:24:56.818559+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-05T21:32:56.818559+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-05T21:38:56.818559+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-05T21:52:56.818559+05:30"
+    }
+   ]
+  },
+  {
+   "id": "seed-010",
+   "code": "OD-10110",
+   "customerId": "cust-anita",
+   "shopId": "saheed-nagar-liquors",
+   "addressId": "addr-anita-1",
+   "items": [
+    {
+     "productId": "mansion-hf-brandy-750",
+     "name": "MANSION HF BRANDY 750",
+     "qty": 3,
+     "unitPrice": 750,
+     "lineTotal": 2250
+    }
+   ],
+   "subtotal": 2250,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 2305,
+   "status": "REJECTED",
+   "otp": "8746",
+   "riderId": null,
+   "packing": {
+    "picked": false,
+    "packed": false,
+    "sealed": false
+   },
+   "substitution": null,
+   "createdAt": "2026-07-05T22:53:48.880926+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-05T22:53:48.880926+05:30"
+    },
+    {
+     "type": "REJECTED",
+     "at": "2026-07-05T22:55:48.880926+05:30",
+     "note": "OUT_OF_STOCK"
+    }
+   ]
+  },
+  {
+   "id": "seed-001",
+   "code": "OD-10101",
+   "customerId": "cust-vikram",
+   "shopId": "saheed-nagar-liquors",
+   "addressId": "addr-vikram-1",
+   "items": [
+    {
+     "productId": "grover-red-wine-750",
+     "name": "GROVER RED WINE 750",
+     "qty": 1,
+     "unitPrice": 770,
+     "lineTotal": 770
+    }
+   ],
+   "subtotal": 770,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 825,
+   "status": "DELIVERED",
+   "otp": "2130",
+   "riderId": "rider-suresh",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-06T19:30:13.459888+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-06T19:30:13.459888+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-06T19:32:13.459888+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-06T19:40:13.459888+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-06T19:46:13.459888+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-06T20:13:13.459888+05:30"
+    }
+   ]
+  },
+  {
+   "id": "seed-002",
+   "code": "OD-10102",
+   "customerId": "cust-vikram",
+   "shopId": "saheed-nagar-liquors",
+   "addressId": "addr-vikram-1",
+   "items": [
+    {
+     "productId": "budweiser-pk-650",
+     "name": "BUDWEISER PK 650",
+     "qty": 2,
+     "unitPrice": 190,
+     "lineTotal": 380
+    },
+    {
+     "productId": "magic-moment-lem-vodka-180",
+     "name": "MAGIC MOMENT LEM VODKA 180",
+     "qty": 2,
+     "unitPrice": 230,
+     "lineTotal": 460
+    },
+    {
+     "productId": "new-absolute-vodka-750",
+     "name": "NEW ABSOLUTE VODKA 750",
+     "qty": 2,
+     "unitPrice": 1970,
+     "lineTotal": 3940
+    }
+   ],
+   "subtotal": 4780,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 4835,
+   "status": "DELIVERED",
+   "otp": "9001",
+   "riderId": "rider-jitu",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-06T19:49:02.456363+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-06T19:49:02.456363+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-06T19:51:02.456363+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-06T19:59:02.456363+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-06T20:05:02.456363+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-06T20:27:02.456363+05:30"
+    }
+   ]
+  },
+  {
+   "id": "seed-003",
+   "code": "OD-10103",
+   "customerId": "cust-ravi",
+   "shopId": "khandagiri-beverages",
+   "addressId": "addr-ravi-1",
+   "items": [
+    {
+     "productId": "royal-envy-exclusive-pre-180ml",
+     "name": "ROYAL ENVY EXCLUSIVE PRE 180ML",
+     "qty": 3,
+     "unitPrice": 340,
+     "lineTotal": 1020
+    },
+    {
+     "productId": "dewars-white-lable-blended-scotch-whisky-375",
+     "name": "DEWARS WHITE LABLE BLENDED SCOTCH WHISKY(375)",
+     "qty": 2,
+     "unitPrice": 1090,
+     "lineTotal": 2180
+    }
+   ],
+   "subtotal": 3200,
+   "deliveryFee": 40,
+   "convenienceFee": 15,
+   "total": 3255,
+   "status": "DELIVERED",
+   "otp": "1291",
+   "riderId": "rider-suresh",
+   "packing": {
+    "picked": true,
+    "packed": true,
+    "sealed": true
+   },
+   "substitution": null,
+   "createdAt": "2026-07-07T05:16:33.269725+05:30",
+   "events": [
+    {
+     "type": "PLACED",
+     "at": "2026-07-07T05:16:33.269725+05:30"
+    },
+    {
+     "type": "ACCEPTED",
+     "at": "2026-07-07T05:18:33.269725+05:30"
+    },
+    {
+     "type": "READY_FOR_PICKUP",
+     "at": "2026-07-07T05:26:33.269725+05:30"
+    },
+    {
+     "type": "PICKED_UP",
+     "at": "2026-07-07T05:32:33.269725+05:30"
+    },
+    {
+     "type": "DELIVERED",
+     "at": "2026-07-07T05:57:33.269725+05:30"
+    }
+   ]
+  }
+ ]
+}

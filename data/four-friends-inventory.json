@@ -1,0 +1,5650 @@
+[
+ {
+  "productId": "100-piper-12-yr-180",
+  "openingQty": 96,
+  "closingQty": 0,
+  "soldQty": 96,
+  "rate": 760.0,
+  "amount": 72960.0
+ },
+ {
+  "productId": "100-piper-12yr-750",
+  "openingQty": 25,
+  "closingQty": 0,
+  "soldQty": 25,
+  "rate": 2930.0,
+  "amount": 73250.0
+ },
+ {
+  "productId": "100-piper-180",
+  "openingQty": 84,
+  "closingQty": 0,
+  "soldQty": 84,
+  "rate": 550.0,
+  "amount": 46200.0
+ },
+ {
+  "productId": "100-piper-375",
+  "openingQty": 68,
+  "closingQty": 0,
+  "soldQty": 68,
+  "rate": 1070.0,
+  "amount": 72760.0
+ },
+ {
+  "productId": "100-piper-750",
+  "openingQty": 33,
+  "closingQty": 0,
+  "soldQty": 33,
+  "rate": 2130.0,
+  "amount": 70290.0
+ },
+ {
+  "productId": "1965-s-v-premium-xxx-rum-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "1965-s-v-premium-xxx-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "1965-s-v-premium-xxx-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "8-pm-pre-black-luxury-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "8-pm-pre-black-luxury-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "8-pm-pre-black-luxury-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "8-pm-pre-black-luxury-whisky-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "absolut-lime-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "absolut-mandrin-750",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 2070.0,
+  "amount": 4140.0
+ },
+ {
+  "productId": "absolut-rasberri-750-ml",
+  "openingQty": 23,
+  "closingQty": 0,
+  "soldQty": 23,
+  "rate": 2070.0,
+  "amount": 47610.0
+ },
+ {
+  "productId": "absolut-vodka-200",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "absolute-50-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "absolute-rasberry-200-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "absolute-vodka-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "after-dark-whiskey-375-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "after-dark-whiskey-750-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "after-dark-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "all-seasons-golden-reserve-whisky-180",
+  "openingQty": 231,
+  "closingQty": 0,
+  "soldQty": 231,
+  "rate": 220.0,
+  "amount": 50820.0
+ },
+ {
+  "productId": "all-seasons-golden-reserve-whisky-375",
+  "openingQty": 26,
+  "closingQty": 0,
+  "soldQty": 26,
+  "rate": 430.0,
+  "amount": 11180.0
+ },
+ {
+  "productId": "all-seasons-golden-reserve-whisky-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 850.0,
+  "amount": 2550.0
+ },
+ {
+  "productId": "all-seasons-golden-reserve-whisky-90",
+  "openingQty": 155,
+  "closingQty": 0,
+  "soldQty": 155,
+  "rate": 120.0,
+  "amount": 18600.0
+ },
+ {
+  "productId": "amrut-amalagam-500",
+  "openingQty": 6,
+  "closingQty": 0,
+  "soldQty": 6,
+  "rate": 2810.0,
+  "amount": 16860.0
+ },
+ {
+  "productId": "amrut-amalgam-malt-whisky-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 4220.0,
+  "amount": 12660.0
+ },
+ {
+  "productId": "amrut-amalgam-peted-malt-whisky-750",
+  "openingQty": 6,
+  "closingQty": 0,
+  "soldQty": 6,
+  "rate": 3830.0,
+  "amount": 22980.0
+ },
+ {
+  "productId": "amrut-fusion-single-malt-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "amrut-nilgiris-indian-dry-gin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "amrut-two-indies-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "amrut-two-indies-rum-750",
+  "openingQty": 7,
+  "closingQty": 0,
+  "soldQty": 7,
+  "rate": 1440.0,
+  "amount": 10080.0
+ },
+ {
+  "productId": "antiquity-blue-whisky-180",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 320.0,
+  "amount": 640.0
+ },
+ {
+  "productId": "antiquity-blue-whisky-375",
+  "openingQty": 13,
+  "closingQty": 0,
+  "soldQty": 13,
+  "rate": 630.0,
+  "amount": 8190.0
+ },
+ {
+  "productId": "antiquity-blue-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "artic-italian-luxury-vodka-750",
+  "openingQty": 23,
+  "closingQty": 0,
+  "soldQty": 23,
+  "rate": 1020.0,
+  "amount": 23460.0
+ },
+ {
+  "productId": "artic-pure-vodka-375",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 530.0,
+  "amount": 4240.0
+ },
+ {
+  "productId": "artic-pure-vodka-180",
+  "openingQty": 30,
+  "closingQty": 0,
+  "soldQty": 30,
+  "rate": 270.0,
+  "amount": 8100.0
+ },
+ {
+  "productId": "ashanti-spiced-ginger-rum-700",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 3530.0,
+  "amount": 7060.0
+ },
+ {
+  "productId": "b-g-barton-guestier-merolt-reserv-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-anejo-cuatro-rum-750",
+  "openingQty": 7,
+  "closingQty": 0,
+  "soldQty": 7,
+  "rate": 2630.0,
+  "amount": 18410.0
+ },
+ {
+  "productId": "bacardi-ap-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-beezer-cn-275",
+  "openingQty": 253,
+  "closingQty": 0,
+  "soldQty": 253,
+  "rate": 100.0,
+  "amount": 25300.0
+ },
+ {
+  "productId": "bacardi-beezer-cz-275",
+  "openingQty": 155,
+  "closingQty": 0,
+  "soldQty": 155,
+  "rate": 100.0,
+  "amount": 15500.0
+ },
+ {
+  "productId": "bacardi-beezer-mango-275",
+  "openingQty": 58,
+  "closingQty": 0,
+  "soldQty": 58,
+  "rate": 100.0,
+  "amount": 5800.0
+ },
+ {
+  "productId": "bacardi-beezer-or-275",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-beezer-wm-mint-275",
+  "openingQty": 48,
+  "closingQty": 0,
+  "soldQty": 48,
+  "rate": 100.0,
+  "amount": 4800.0
+ },
+ {
+  "productId": "bacardi-beezer-zp-275",
+  "openingQty": 334,
+  "closingQty": 0,
+  "soldQty": 334,
+  "rate": 100.0,
+  "amount": 33400.0
+ },
+ {
+  "productId": "bacardi-classic-black-180",
+  "openingQty": 499,
+  "closingQty": 0,
+  "soldQty": 499,
+  "rate": 200.0,
+  "amount": 99800.0
+ },
+ {
+  "productId": "bacardi-classic-black-375",
+  "openingQty": 171,
+  "closingQty": 0,
+  "soldQty": 171,
+  "rate": 400.0,
+  "amount": 68400.0
+ },
+ {
+  "productId": "bacardi-classic-black-750",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 780.0,
+  "amount": 29640.0
+ },
+ {
+  "productId": "bacardi-classic-black-90",
+  "openingQty": 624,
+  "closingQty": 0,
+  "soldQty": 624,
+  "rate": 100.0,
+  "amount": 62400.0
+ },
+ {
+  "productId": "bacardi-cranberry-rum-mixed-275",
+  "openingQty": 359,
+  "closingQty": 0,
+  "soldQty": 359,
+  "rate": 120.0,
+  "amount": 43080.0
+ },
+ {
+  "productId": "bacardi-ginger-ultra-premium-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-ginger-ultra-premium-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-ginger-ultra-premium-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-le-rum-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-le-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-le-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-le-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-lemonade-rum-mixed-275",
+  "openingQty": 166,
+  "closingQty": 0,
+  "soldQty": 166,
+  "rate": 120.0,
+  "amount": 19920.0
+ },
+ {
+  "productId": "bacardi-limon-ultra-gold-180",
+  "openingQty": 309,
+  "closingQty": 0,
+  "soldQty": 309,
+  "rate": 270.0,
+  "amount": 83430.0
+ },
+ {
+  "productId": "bacardi-limon-ultra-gold-375",
+  "openingQty": 132,
+  "closingQty": 0,
+  "soldQty": 132,
+  "rate": 540.0,
+  "amount": 71280.0
+ },
+ {
+  "productId": "bacardi-limon-ultra-gold-750",
+  "openingQty": 37,
+  "closingQty": 0,
+  "soldQty": 37,
+  "rate": 1040.0,
+  "amount": 38480.0
+ },
+ {
+  "productId": "bacardi-limon-ultra-gold-90",
+  "openingQty": 423,
+  "closingQty": 0,
+  "soldQty": 423,
+  "rate": 140.0,
+  "amount": 59220.0
+ },
+ {
+  "productId": "bacardi-mango-chilli-ultra-premium-rum-750",
+  "openingQty": 32,
+  "closingQty": 0,
+  "soldQty": 32,
+  "rate": 1100.0,
+  "amount": 35200.0
+ },
+ {
+  "productId": "bacardi-mango-chilli-ultra-premium-rum-180",
+  "openingQty": 193,
+  "closingQty": 0,
+  "soldQty": 193,
+  "rate": 280.0,
+  "amount": 54040.0
+ },
+ {
+  "productId": "bacardi-mango-chilli-ultra-premium-rum-375",
+  "openingQty": 109,
+  "closingQty": 0,
+  "soldQty": 109,
+  "rate": 570.0,
+  "amount": 62130.0
+ },
+ {
+  "productId": "bacardi-orange-rum-mixed-275",
+  "openingQty": 157,
+  "closingQty": 0,
+  "soldQty": 157,
+  "rate": 120.0,
+  "amount": 18840.0
+ },
+ {
+  "productId": "bacardi-p-apple-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-p-apple-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-p-apple-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-p-apple-rum-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-reserve-ocho-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bacardi-sop-rum-090",
+  "openingQty": 64,
+  "closingQty": 0,
+  "soldQty": 64,
+  "rate": 130.0,
+  "amount": 8320.0
+ },
+ {
+  "productId": "bacardi-sop-rum-180",
+  "openingQty": 37,
+  "closingQty": 0,
+  "soldQty": 37,
+  "rate": 260.0,
+  "amount": 9620.0
+ },
+ {
+  "productId": "bacardi-sop-rum-375",
+  "openingQty": 29,
+  "closingQty": 0,
+  "soldQty": 29,
+  "rate": 520.0,
+  "amount": 15080.0
+ },
+ {
+  "productId": "bacardi-sop-rum-750",
+  "openingQty": 20,
+  "closingQty": 0,
+  "soldQty": 20,
+  "rate": 1030.0,
+  "amount": 20600.0
+ },
+ {
+  "productId": "baileys-the-original-irish-crem-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "ballantine-blended-scotch-whisky-12-yr-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "ballantine-blended-scotch-whisky-7-yrs-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "ballantine-blended-scoth-200",
+  "openingQty": 85,
+  "closingQty": 0,
+  "soldQty": 85,
+  "rate": 600.0,
+  "amount": 51000.0
+ },
+ {
+  "productId": "ballentine-blended-whisky-50",
+  "openingQty": 100,
+  "closingQty": 0,
+  "soldQty": 100,
+  "rate": 150.0,
+  "amount": 15000.0
+ },
+ {
+  "productId": "balllantine-blended-s-whisky-375",
+  "openingQty": 48,
+  "closingQty": 0,
+  "soldQty": 48,
+  "rate": 980.0,
+  "amount": 47040.0
+ },
+ {
+  "productId": "balllantine-blended-s-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "beck-s-ice-superior-strength-beer-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "beck-s-ice-superior-strength-beer-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bee-feater-london-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bhutan-blue-classic-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bhutan-blue-classic-whisky-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bhutan-blue-classic-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bhutan-blue-classic-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "big-bro-fury-500-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bio-res-whisky-natural-16-botan-180",
+  "openingQty": 36,
+  "closingQty": 0,
+  "soldQty": 36,
+  "rate": 360.0,
+  "amount": 12960.0
+ },
+ {
+  "productId": "bio-res-whisky-natural-16-botan-750",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 1410.0,
+  "amount": 11280.0
+ },
+ {
+  "productId": "bio-rum-exotic-prrmium-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bio-rum-exotic-prrmium-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bio-rum-exotic-prrmium-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 1010.0,
+  "amount": 4040.0
+ },
+ {
+  "productId": "bira-91-rise-rice-strong-lager-beer-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bira-farmers-gold-wheat-strong-beer-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bira91-blonde-summer-lager-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bira91-blonde-summer-lager-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bira91-boom-super-strong-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bira91-boom-super-strong-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bira91-white-beer-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bira91-white-beer-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "black-white-whisky-180",
+  "openingQty": 56,
+  "closingQty": 0,
+  "soldQty": 56,
+  "rate": 520.0,
+  "amount": 29120.0
+ },
+ {
+  "productId": "black-white-whisky-375",
+  "openingQty": 42,
+  "closingQty": 0,
+  "soldQty": 42,
+  "rate": 1040.0,
+  "amount": 43680.0
+ },
+ {
+  "productId": "black-white-whisky-750",
+  "openingQty": 41,
+  "closingQty": 0,
+  "soldQty": 41,
+  "rate": 2080.0,
+  "amount": 85280.0
+ },
+ {
+  "productId": "black-dog-8-yr-180",
+  "openingQty": 12,
+  "closingQty": 0,
+  "soldQty": 12,
+  "rate": 560.0,
+  "amount": 6720.0
+ },
+ {
+  "productId": "black-dog-8-yr-375",
+  "openingQty": 22,
+  "closingQty": 0,
+  "soldQty": 22,
+  "rate": 1080.0,
+  "amount": 23760.0
+ },
+ {
+  "productId": "black-dog-8-yr-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "black-dog-dlx-12yr-180",
+  "openingQty": 6,
+  "closingQty": 0,
+  "soldQty": 6,
+  "rate": 720.0,
+  "amount": 4320.0
+ },
+ {
+  "productId": "black-dog-dlx-12yr-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "black-dog-dlx-12yr-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "black-frot-premium-xxx-rum-180",
+  "openingQty": 83,
+  "closingQty": 0,
+  "soldQty": 83,
+  "rate": 170.0,
+  "amount": 14110.0
+ },
+ {
+  "productId": "black-frot-premium-xxx-rum-375",
+  "openingQty": 22,
+  "closingQty": 0,
+  "soldQty": 22,
+  "rate": 340.0,
+  "amount": 7480.0
+ },
+ {
+  "productId": "black-frot-premium-xxx-rum-750",
+  "openingQty": 16,
+  "closingQty": 0,
+  "soldQty": 16,
+  "rate": 650.0,
+  "amount": 10400.0
+ },
+ {
+  "productId": "black-frot-premium-xxx-rum-90",
+  "openingQty": 122,
+  "closingQty": 0,
+  "soldQty": 122,
+  "rate": 90.0,
+  "amount": 10980.0
+ },
+ {
+  "productId": "black-pearl-strong-650",
+  "openingQty": 118,
+  "closingQty": 0,
+  "soldQty": 118,
+  "rate": 150.0,
+  "amount": 17700.0
+ },
+ {
+  "productId": "black-tower-reisling-white-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "blackfort-super-strong-beer-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "blenders-pride-four-element-180",
+  "openingQty": 29,
+  "closingQty": 0,
+  "soldQty": 29,
+  "rate": 320.0,
+  "amount": 9280.0
+ },
+ {
+  "productId": "blenders-pride-four-element-375",
+  "openingQty": 30,
+  "closingQty": 0,
+  "soldQty": 30,
+  "rate": 630.0,
+  "amount": 18900.0
+ },
+ {
+  "productId": "blenders-pride-four-element-750",
+  "openingQty": 26,
+  "closingQty": 0,
+  "soldQty": 26,
+  "rate": 1260.0,
+  "amount": 32760.0
+ },
+ {
+  "productId": "blenders-pride-four-element-90",
+  "openingQty": 182,
+  "closingQty": 0,
+  "soldQty": 182,
+  "rate": 160.0,
+  "amount": 29120.0
+ },
+ {
+  "productId": "blenders-pride-rc-180",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 360.0,
+  "amount": 13680.0
+ },
+ {
+  "productId": "blenders-pride-rc-375",
+  "openingQty": 58,
+  "closingQty": 0,
+  "soldQty": 58,
+  "rate": 710.0,
+  "amount": 41180.0
+ },
+ {
+  "productId": "blenders-pride-rc-750",
+  "openingQty": 64,
+  "closingQty": 0,
+  "soldQty": 64,
+  "rate": 1420.0,
+  "amount": 90880.0
+ },
+ {
+  "productId": "blenders-pride-whisky-180",
+  "openingQty": 140,
+  "closingQty": 0,
+  "soldQty": 140,
+  "rate": 290.0,
+  "amount": 40600.0
+ },
+ {
+  "productId": "blenders-pride-whisky-375",
+  "openingQty": 107,
+  "closingQty": 0,
+  "soldQty": 107,
+  "rate": 570.0,
+  "amount": 60990.0
+ },
+ {
+  "productId": "blenders-pride-whisky-750",
+  "openingQty": 48,
+  "closingQty": 0,
+  "soldQty": 48,
+  "rate": 1140.0,
+  "amount": 54720.0
+ },
+ {
+  "productId": "blenders-pride-whisky-90",
+  "openingQty": 125,
+  "closingQty": 0,
+  "soldQty": 125,
+  "rate": 150.0,
+  "amount": 18750.0
+ },
+ {
+  "productId": "blue-lagoon-gin-180",
+  "openingQty": 57,
+  "closingQty": 0,
+  "soldQty": 57,
+  "rate": 180.0,
+  "amount": 10260.0
+ },
+ {
+  "productId": "blue-lagoon-gin-375",
+  "openingQty": 21,
+  "closingQty": 0,
+  "soldQty": 21,
+  "rate": 370.0,
+  "amount": 7770.0
+ },
+ {
+  "productId": "blue-lagoon-gin-750",
+  "openingQty": 19,
+  "closingQty": 0,
+  "soldQty": 19,
+  "rate": 730.0,
+  "amount": 13870.0
+ },
+ {
+  "productId": "blue-laoon-gin-90",
+  "openingQty": 59,
+  "closingQty": 0,
+  "soldQty": 59,
+  "rate": 100.0,
+  "amount": 5900.0
+ },
+ {
+  "productId": "bombay-saphire-london-dry-gin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "breezer-blueberry-275",
+  "openingQty": 121,
+  "closingQty": 0,
+  "soldQty": 121,
+  "rate": 100.0,
+  "amount": 12100.0
+ },
+ {
+  "productId": "bro-code-c-brut-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bro-seltzer-lime-spiked-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "brose-vibe-brut-rose-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "budweiser-mgnm-500",
+  "openingQty": 2267,
+  "closingQty": 0,
+  "soldQty": 2267,
+  "rate": 170.0,
+  "amount": 385390.0
+ },
+ {
+  "productId": "budweiser-mgnm-650",
+  "openingQty": 1485,
+  "closingQty": 0,
+  "soldQty": 1485,
+  "rate": 220.0,
+  "amount": 326700.0
+ },
+ {
+  "productId": "budweiser-pk-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "budweiser-pk-500",
+  "openingQty": 2319,
+  "closingQty": 0,
+  "soldQty": 2319,
+  "rate": 140.0,
+  "amount": 324660.0
+ },
+ {
+  "productId": "budweiser-pk-650",
+  "openingQty": 637,
+  "closingQty": 0,
+  "soldQty": 637,
+  "rate": 180.0,
+  "amount": 114660.0
+ },
+ {
+  "productId": "bulldog-london-dry-gin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "bushmills-12-yrs-single-malt-irish-whi-700",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 5710.0,
+  "amount": 11420.0
+ },
+ {
+  "productId": "bushmills-black-bush-irish-whiskey700",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "calenter-premium-rum-180",
+  "openingQty": 91,
+  "closingQty": 0,
+  "soldQty": 91,
+  "rate": 190.0,
+  "amount": 17290.0
+ },
+ {
+  "productId": "calenter-premium-rum-375",
+  "openingQty": 65,
+  "closingQty": 0,
+  "soldQty": 65,
+  "rate": 390.0,
+  "amount": 25350.0
+ },
+ {
+  "productId": "calenter-premium-rum-750",
+  "openingQty": 12,
+  "closingQty": 0,
+  "soldQty": 12,
+  "rate": 760.0,
+  "amount": 9120.0
+ },
+ {
+  "productId": "calenter-premium-rum-90",
+  "openingQty": 171,
+  "closingQty": 0,
+  "soldQty": 171,
+  "rate": 100.0,
+  "amount": 17100.0
+ },
+ {
+  "productId": "camikara-rum-cask-3-yo-aged-750",
+  "openingQty": 10,
+  "closingQty": 0,
+  "soldQty": 10,
+  "rate": 2670.0,
+  "amount": 26700.0
+ },
+ {
+  "productId": "campo-veijo-rioja-blanco-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "carlsberg-ess-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "carlsberg-ess-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "casco-viejo-gold-tequila-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "casco-viejo-silver-tequila-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "chivas-r-pr-s-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "chivas-regal-12-yr-750",
+  "openingQty": 14,
+  "closingQty": 0,
+  "soldQty": 14,
+  "rate": 3790.0,
+  "amount": 53060.0
+ },
+ {
+  "productId": "chivas-regal-18yrs-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "chivas-regal-200-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "chivas-regal15yrs-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "cliff-hanger-lemon-premium-vodka-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "cliff-hanger-lemon-premium-vodka-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "cliff-hanger-lemon-premium-vodka-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "cliff-hanger-pre-hand-180-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "cliff-hanger-pre-hand-375ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "cliff-hanger-pre-hand-750ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "corona-extra-beer-330",
+  "openingQty": 313,
+  "closingQty": 0,
+  "soldQty": 313,
+  "rate": 160.0,
+  "amount": 50080.0
+ },
+ {
+  "productId": "d-g-director-goal-rare-pre-whisky-180",
+  "openingQty": 21,
+  "closingQty": 0,
+  "soldQty": 21,
+  "rate": 280.0,
+  "amount": 5880.0
+ },
+ {
+  "productId": "d-g-director-goal-rare-pre-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "d-g-director-goal-rare-pre-whisky-750",
+  "openingQty": 1,
+  "closingQty": 0,
+  "soldQty": 1,
+  "rate": 1090.0,
+  "amount": 1090.0
+ },
+ {
+  "productId": "dark-knight-rum-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "delhi-6-pre-super-strong-beer-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "dewar-12-yrs-double-1-fill-bourboon-caske-750",
+  "openingQty": 1,
+  "closingQty": 0,
+  "soldQty": 1,
+  "rate": 3120.0,
+  "amount": 3120.0
+ },
+ {
+  "productId": "dewar-aged-15-yrs-blended-scotch-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "dewars-white-lable-blended-scotch-whisky-180",
+  "openingQty": 43,
+  "closingQty": 0,
+  "soldQty": 43,
+  "rate": 550.0,
+  "amount": 23650.0
+ },
+ {
+  "productId": "dewars-white-lable-blended-scotch-whisky-375",
+  "openingQty": 15,
+  "closingQty": 0,
+  "soldQty": 15,
+  "rate": 1040.0,
+  "amount": 15600.0
+ },
+ {
+  "productId": "dewars-white-lable-blended-scotch-whisky-750",
+  "openingQty": 122,
+  "closingQty": 0,
+  "soldQty": 122,
+  "rate": 1820.0,
+  "amount": 222040.0
+ },
+ {
+  "productId": "dia-red-wine-sparkler-750",
+  "openingQty": 12,
+  "closingQty": 0,
+  "soldQty": 12,
+  "rate": 650.0,
+  "amount": 7800.0
+ },
+ {
+  "productId": "dia-white-wine-sparkler-750",
+  "openingQty": 19,
+  "closingQty": 0,
+  "soldQty": 19,
+  "rate": 650.0,
+  "amount": 12350.0
+ },
+ {
+  "productId": "eden-blended-malt-whisky-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 2170.0,
+  "amount": 8680.0
+ },
+ {
+  "productId": "ensign-bio-brandy-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "ensign-bio-brandy-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "enso-japanese-whisky-750",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 4440.0,
+  "amount": 8880.0
+ },
+ {
+  "productId": "evan-willams-ks-bourbon-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "fosters-sp-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "four-by-four-pre-millennial-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "four-by-four-pre-millennial-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "four-by-four-pre-millennial-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "fratelli-sette-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "fratelli-shiraz-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "fratelli-shotgun-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "gladius-lemoni-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "gladius-lemoni-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "gladius-lemoni-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "gladius-lemoni-rum-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "gladius-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "gladius-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "gladius-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "gladius-rum-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "glen-parker-speyside-single-malt-700",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "glenfiddich-single-malt-scotch-12-yrs-700",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 5810.0,
+  "amount": 17430.0
+ },
+ {
+  "productId": "glenfiddich-single-malt-scotch-15-yrs-700",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "glengrant-single-malt-scotch-10yrs-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "glenlivet-12-yrs-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "glenlivet-scotch-18yr-750",
+  "openingQty": 6,
+  "closingQty": 0,
+  "soldQty": 6,
+  "rate": 11210.0,
+  "amount": 67260.0
+ },
+ {
+  "productId": "god-s-own-vsop-brandy-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "golden-bird-pre-lager-beer-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "golden-bird-super-strong-beer-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "golfer-s-shot-barrel-wishky-180",
+  "openingQty": 48,
+  "closingQty": 0,
+  "soldQty": 48,
+  "rate": 280.0,
+  "amount": 13440.0
+ },
+ {
+  "productId": "golfer-s-shot-barrel-wishky-375",
+  "openingQty": 40,
+  "closingQty": 0,
+  "soldQty": 40,
+  "rate": 560.0,
+  "amount": 22400.0
+ },
+ {
+  "productId": "golfer-s-shot-barrel-wishky-750",
+  "openingQty": 14,
+  "closingQty": 0,
+  "soldQty": 14,
+  "rate": 1120.0,
+  "amount": 15680.0
+ },
+ {
+  "productId": "golfers-shot-18-hole-whisky-180",
+  "openingQty": 42,
+  "closingQty": 0,
+  "soldQty": 42,
+  "rate": 370.0,
+  "amount": 15540.0
+ },
+ {
+  "productId": "golfers-shot-18-hole-whisky-375",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 740.0,
+  "amount": 5920.0
+ },
+ {
+  "productId": "golfers-shot-18-hole-whisky-750",
+  "openingQty": 10,
+  "closingQty": 0,
+  "soldQty": 10,
+  "rate": 1470.0,
+  "amount": 14700.0
+ },
+ {
+  "productId": "golfers-shot-barrel-wishky-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "good-earth-wine-belu-shiraz-cabernet-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "good-earth-wine-blanco-chennin-blance-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "grey-goose-vodka-750",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 3500.0,
+  "amount": 28000.0
+ },
+ {
+  "productId": "grover-chene-grande-reserve-red-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "grover-la-reserve-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "grover-misfit-bellini-275-ml",
+  "openingQty": 30,
+  "closingQty": 0,
+  "soldQty": 30,
+  "rate": 130.0,
+  "amount": 3900.0
+ },
+ {
+  "productId": "grover-misfit-craft-spark-330-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "grover-misfit-cranberry-275-ml",
+  "openingQty": 24,
+  "closingQty": 0,
+  "soldQty": 24,
+  "rate": 130.0,
+  "amount": 3120.0
+ },
+ {
+  "productId": "grover-misfit-kalimotox-275ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "grover-misfit-kir-royale-275ml",
+  "openingQty": 1,
+  "closingQty": 0,
+  "soldQty": 1,
+  "rate": 130.0,
+  "amount": 130.0
+ },
+ {
+  "productId": "grover-red-wine-375",
+  "openingQty": 50,
+  "closingQty": 0,
+  "soldQty": 50,
+  "rate": 400.0,
+  "amount": 20000.0
+ },
+ {
+  "productId": "grover-red-wine-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 760.0,
+  "amount": 3040.0
+ },
+ {
+  "productId": "grover-rose-wine-750",
+  "openingQty": 9,
+  "closingQty": 0,
+  "soldQty": 9,
+  "rate": 760.0,
+  "amount": 6840.0
+ },
+ {
+  "productId": "grover-soiree-brut-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "grover-vijay-amiritraj-re-col-wine-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 1520.0,
+  "amount": 4560.0
+ },
+ {
+  "productId": "grover-white-wine-375",
+  "openingQty": 15,
+  "closingQty": 0,
+  "soldQty": 15,
+  "rate": 400.0,
+  "amount": 6000.0
+ },
+ {
+  "productId": "grover-white-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "haywards-5000-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "haywards-5000-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "heineken-lager-beer-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "heineken-lager-beer-500",
+  "openingQty": 39,
+  "closingQty": 0,
+  "soldQty": 39,
+  "rate": 180.0,
+  "amount": 7020.0
+ },
+ {
+  "productId": "heineken-lager-beer-650",
+  "openingQty": 27,
+  "closingQty": 0,
+  "soldQty": 27,
+  "rate": 230.0,
+  "amount": 6210.0
+ },
+ {
+  "productId": "he-man-9000-s-s-beer-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "hendricks-gin-700",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "highbury-classic-whisky-180",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 310.0,
+  "amount": 11780.0
+ },
+ {
+  "productId": "highbury-classic-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "highbury-classic-whisky-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 1190.0,
+  "amount": 3570.0
+ },
+ {
+  "productId": "hoegaarden-beer-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "hunter-esp-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "hunter-esp-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "hunter-platina-strong-500",
+  "openingQty": 1838,
+  "closingQty": 0,
+  "soldQty": 1838,
+  "rate": 130.0,
+  "amount": 238940.0
+ },
+ {
+  "productId": "hunter-platina-strong-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "hunter-ref-strong-500-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "hunter-very-strong-premium-beer-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "hunter-very-strong-premium-beer-650",
+  "openingQty": 306,
+  "closingQty": 0,
+  "soldQty": 306,
+  "rate": 180.0,
+  "amount": 55080.0
+ },
+ {
+  "productId": "ib-finest-grain-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "ib-finest-grain-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "ib-finest-grain-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "ib-finest-grain-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "iconiq-white-finest-intl-grain-whisky-180",
+  "openingQty": 438,
+  "closingQty": 0,
+  "soldQty": 438,
+  "rate": 200.0,
+  "amount": 87600.0
+ },
+ {
+  "productId": "iconiq-white-finest-intl-grain-whisky-375",
+  "openingQty": 146,
+  "closingQty": 0,
+  "soldQty": 146,
+  "rate": 390.0,
+  "amount": 56940.0
+ },
+ {
+  "productId": "iconiq-white-finest-intl-grain-whisky-750",
+  "openingQty": 48,
+  "closingQty": 0,
+  "soldQty": 48,
+  "rate": 780.0,
+  "amount": 37440.0
+ },
+ {
+  "productId": "iconiq-white-finest-intl-grain-whisky-90",
+  "openingQty": 27,
+  "closingQty": 0,
+  "soldQty": 27,
+  "rate": 110.0,
+  "amount": 2970.0
+ },
+ {
+  "productId": "imperial-blue-whisky-180",
+  "openingQty": 233,
+  "closingQty": 0,
+  "soldQty": 233,
+  "rate": 200.0,
+  "amount": 46600.0
+ },
+ {
+  "productId": "imperial-blue-whisky-375",
+  "openingQty": 127,
+  "closingQty": 0,
+  "soldQty": 127,
+  "rate": 400.0,
+  "amount": 50800.0
+ },
+ {
+  "productId": "imperial-blue-whisky-750",
+  "openingQty": 80,
+  "closingQty": 0,
+  "soldQty": 80,
+  "rate": 780.0,
+  "amount": 62400.0
+ },
+ {
+  "productId": "imperial-blue-whisky-90",
+  "openingQty": 23,
+  "closingQty": 0,
+  "soldQty": 23,
+  "rate": 100.0,
+  "amount": 2300.0
+ },
+ {
+  "productId": "indri-single-malt-indian-whisky-60",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "indri-single-malt-indian-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "j-b-rare-blended-scotch-whisky-750",
+  "openingQty": 7,
+  "closingQty": 0,
+  "soldQty": 7,
+  "rate": 2040.0,
+  "amount": 14280.0
+ },
+ {
+  "productId": "jack-daniel-apple-liqueur-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jack-daniel-cinnamon-liqueur-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jack-daniel-old-no-7-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jack-daniel-old-no-7-honey-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jack-daniels-gentleman-jack-double-mellwed-750",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 4280.0,
+  "amount": 8560.0
+ },
+ {
+  "productId": "jacob-s-creek-classic-chardonnay-187",
+  "openingQty": 7,
+  "closingQty": 0,
+  "soldQty": 7,
+  "rate": 440.0,
+  "amount": 3080.0
+ },
+ {
+  "productId": "jacob-s-creek-classic-shiraz-cabernet-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jacobs-creek-chardonnay-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jagermeister-harbal-liqueur-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jagermeister-harbal-liqueur-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jagermeister-harbal-liqueur-50",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jaisalmer-gin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jameson-200-ml",
+  "openingQty": 94,
+  "closingQty": 0,
+  "soldQty": 94,
+  "rate": 670.0,
+  "amount": 62980.0
+ },
+ {
+  "productId": "jameson-black-barrel-irish-whisky-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 3760.0,
+  "amount": 11280.0
+ },
+ {
+  "productId": "jameson-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jim-beam-750-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jim-beam-honey-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jim-beam-orange-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "john-barr-blended-scotch-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "johnie-walker-blonde-blended-scoth-700",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 2940.0,
+  "amount": 5880.0
+ },
+ {
+  "productId": "johnnie-walker-aged-18-yr-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "johnnie-walker-bl-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "johnnie-walker-blue-lable-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "johnnie-walker-double-black-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "johnnie-walker-gl-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "johnnie-walker-rl-375",
+  "openingQty": 28,
+  "closingQty": 0,
+  "soldQty": 28,
+  "rate": 1010.0,
+  "amount": 28280.0
+ },
+ {
+  "productId": "johnnie-walker-rl-750",
+  "openingQty": 37,
+  "closingQty": 0,
+  "soldQty": 37,
+  "rate": 2010.0,
+  "amount": 74370.0
+ },
+ {
+  "productId": "jolly-roger-pre-xxx-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jolly-roger-pre-xxx-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jolly-roger-pre-xxx-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "jura-single-malt-scotch-10-yrs-700",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 6360.0,
+  "amount": 19080.0
+ },
+ {
+  "productId": "k-f-s-ultra-max-500",
+  "openingQty": 1289,
+  "closingQty": 0,
+  "soldQty": 1289,
+  "rate": 170.0,
+  "amount": 219130.0
+ },
+ {
+  "productId": "k-f-s-ultra-max-650",
+  "openingQty": 951,
+  "closingQty": 0,
+  "soldQty": 951,
+  "rate": 220.0,
+  "amount": 209220.0
+ },
+ {
+  "productId": "k-fisher-lager-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "k-fisher-lager-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "k-fisher-lager-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "k-fisher-platinum-strong-500",
+  "openingQty": 1961,
+  "closingQty": 0,
+  "soldQty": 1961,
+  "rate": 150.0,
+  "amount": 294150.0
+ },
+ {
+  "productId": "k-fisher-stormm-650",
+  "openingQty": 2215,
+  "closingQty": 0,
+  "soldQty": 2215,
+  "rate": 180.0,
+  "amount": 398700.0
+ },
+ {
+  "productId": "k-fisher-stormm-500",
+  "openingQty": 1032,
+  "closingQty": 0,
+  "soldQty": 1032,
+  "rate": 150.0,
+  "amount": 154800.0
+ },
+ {
+  "productId": "k-fisher-strong-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "k-fisher-strong-old-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 150.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "k-fisher-super-strong-650",
+  "openingQty": 6335,
+  "closingQty": 0,
+  "soldQty": 6335,
+  "rate": 170.0,
+  "amount": 1076950.0
+ },
+ {
+  "productId": "k-fisher-ultra-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "k-fisher-ultra-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "k-fisher-ultra-lager-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "ketel-one-vodka-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "kilbrun-global-age-indian-luxury-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "kilbrun-platinum-global-age-indian-luxury-whisky-180",
+  "openingQty": 23,
+  "closingQty": 0,
+  "soldQty": 23,
+  "rate": 290.0,
+  "amount": 6670.0
+ },
+ {
+  "productId": "kilbrun-platinum-global-age-indian-luxury-whisky-375ml",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 550.0,
+  "amount": 1100.0
+ },
+ {
+  "productId": "kilbrun-platinum-global-age-indian-luxury-whisky-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 1090.0,
+  "amount": 4360.0
+ },
+ {
+  "productId": "kilburn-global-age-indian-luxury-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "knight-rider-limon-vodka-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "knight-rider-limon-vodka-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "knight-rider-limon-vodka-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 620.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "kolt-doubble-strong-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "kraft-sket-bro-code-330",
+  "openingQty": 248,
+  "closingQty": 0,
+  "soldQty": 248,
+  "rate": 190.0,
+  "amount": 47120.0
+ },
+ {
+  "productId": "kroo-golden-lager-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "laphroaig-islay-single-malt-scotch-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "legacy-premium-blended-whisky-ultra-gold-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "legacy-premium-blended-whisky-ultra-gold-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "legacy-premium-blended-whisky-ultra-gold-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "lemme-black-pre-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "lemme-black-pre-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "lemme-black-pre-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "lemme-black-pre-rum-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "lemme-lemon-rum-180",
+  "openingQty": 103,
+  "closingQty": 0,
+  "soldQty": 103,
+  "rate": 230.0,
+  "amount": 23690.0
+ },
+ {
+  "productId": "lemme-lemon-rum-375",
+  "openingQty": 31,
+  "closingQty": 0,
+  "soldQty": 31,
+  "rate": 460.0,
+  "amount": 14260.0
+ },
+ {
+  "productId": "lemme-lemon-rum-750",
+  "openingQty": 14,
+  "closingQty": 0,
+  "soldQty": 14,
+  "rate": 900.0,
+  "amount": 12600.0
+ },
+ {
+  "productId": "lemme-lemon-rum-90",
+  "openingQty": 76,
+  "closingQty": 0,
+  "soldQty": 76,
+  "rate": 120.0,
+  "amount": 9120.0
+ },
+ {
+  "productId": "lemme-original-white-rum-375-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "lemme-original-white-rum-750-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "lemme-original-white-rum180-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "lleo-fine-whisky-180",
+  "openingQty": 87,
+  "closingQty": 0,
+  "soldQty": 87,
+  "rate": 170.0,
+  "amount": 14790.0
+ },
+ {
+  "productId": "lleo-xxx-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "london-pilsner-pre-strong-beer-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "macallan-single-malt-12-yrs",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "macroys-blended-scotch-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "madira-red-wine-750",
+  "openingQty": 6,
+  "closingQty": 0,
+  "soldQty": 6,
+  "rate": 470.0,
+  "amount": 2820.0
+ },
+ {
+  "productId": "magic-moment-ap-vodka-180",
+  "openingQty": 154,
+  "closingQty": 0,
+  "soldQty": 154,
+  "rate": 220.0,
+  "amount": 33880.0
+ },
+ {
+  "productId": "magic-moment-ap-vodka-375",
+  "openingQty": 60,
+  "closingQty": 0,
+  "soldQty": 60,
+  "rate": 430.0,
+  "amount": 25800.0
+ },
+ {
+  "productId": "magic-moment-ap-vodka-750",
+  "openingQty": 23,
+  "closingQty": 0,
+  "soldQty": 23,
+  "rate": 850.0,
+  "amount": 19550.0
+ },
+ {
+  "productId": "magic-moment-ap-vodka-90",
+  "openingQty": 191,
+  "closingQty": 0,
+  "soldQty": 191,
+  "rate": 110.0,
+  "amount": 21010.0
+ },
+ {
+  "productId": "magic-moment-lem-vodka-180",
+  "openingQty": 155,
+  "closingQty": 0,
+  "soldQty": 155,
+  "rate": 220.0,
+  "amount": 34100.0
+ },
+ {
+  "productId": "magic-moment-lem-vodka-375",
+  "openingQty": 47,
+  "closingQty": 0,
+  "soldQty": 47,
+  "rate": 430.0,
+  "amount": 20210.0
+ },
+ {
+  "productId": "magic-moment-lem-vodka-750",
+  "openingQty": 20,
+  "closingQty": 0,
+  "soldQty": 20,
+  "rate": 850.0,
+  "amount": 17000.0
+ },
+ {
+  "productId": "magic-moment-lem-vodka-90",
+  "openingQty": 262,
+  "closingQty": 0,
+  "soldQty": 262,
+  "rate": 110.0,
+  "amount": 28820.0
+ },
+ {
+  "productId": "magic-moment-org-vodka-180",
+  "openingQty": 76,
+  "closingQty": 0,
+  "soldQty": 76,
+  "rate": 210.0,
+  "amount": 15960.0
+ },
+ {
+  "productId": "magic-moment-org-vodka-375",
+  "openingQty": 48,
+  "closingQty": 0,
+  "soldQty": 48,
+  "rate": 420.0,
+  "amount": 20160.0
+ },
+ {
+  "productId": "magic-moment-org-vodka-750",
+  "openingQty": 17,
+  "closingQty": 0,
+  "soldQty": 17,
+  "rate": 830.0,
+  "amount": 14110.0
+ },
+ {
+  "productId": "magic-moment-org-vodka-90",
+  "openingQty": 30,
+  "closingQty": 0,
+  "soldQty": 30,
+  "rate": 110.0,
+  "amount": 3300.0
+ },
+ {
+  "productId": "magic-moment-pg-vodka-090",
+  "openingQty": 445,
+  "closingQty": 0,
+  "soldQty": 445,
+  "rate": 100.0,
+  "amount": 44500.0
+ },
+ {
+  "productId": "magic-moment-pg-vodka-180",
+  "openingQty": 275,
+  "closingQty": 0,
+  "soldQty": 275,
+  "rate": 200.0,
+  "amount": 55000.0
+ },
+ {
+  "productId": "magic-moment-pg-vodka-375",
+  "openingQty": 106,
+  "closingQty": 0,
+  "soldQty": 106,
+  "rate": 400.0,
+  "amount": 42400.0
+ },
+ {
+  "productId": "magic-moment-pg-vodka-750",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 790.0,
+  "amount": 30020.0
+ },
+ {
+  "productId": "magic-moment-pink-vodka-180-ml",
+  "openingQty": 92,
+  "closingQty": 0,
+  "soldQty": 92,
+  "rate": 240.0,
+  "amount": 22080.0
+ },
+ {
+  "productId": "magic-moment-pink-vodka-375-ml",
+  "openingQty": 45,
+  "closingQty": 0,
+  "soldQty": 45,
+  "rate": 470.0,
+  "amount": 21150.0
+ },
+ {
+  "productId": "magic-moment-pink-vodka-750-ml",
+  "openingQty": 23,
+  "closingQty": 0,
+  "soldQty": 23,
+  "rate": 930.0,
+  "amount": 21390.0
+ },
+ {
+  "productId": "maharani-blue-ss-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mansion-hf-brandy-090",
+  "openingQty": 156,
+  "closingQty": 0,
+  "soldQty": 156,
+  "rate": 100.0,
+  "amount": 15600.0
+ },
+ {
+  "productId": "mansion-hf-brandy-180",
+  "openingQty": 71,
+  "closingQty": 0,
+  "soldQty": 71,
+  "rate": 180.0,
+  "amount": 12780.0
+ },
+ {
+  "productId": "mansion-hf-brandy-375",
+  "openingQty": 52,
+  "closingQty": 0,
+  "soldQty": 52,
+  "rate": 370.0,
+  "amount": 19240.0
+ },
+ {
+  "productId": "mansion-hf-brandy-750",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 730.0,
+  "amount": 27740.0
+ },
+ {
+  "productId": "mansion-hf-gold-whisky-180",
+  "openingQty": 30,
+  "closingQty": 0,
+  "soldQty": 30,
+  "rate": 210.0,
+  "amount": 6300.0
+ },
+ {
+  "productId": "mansion-hf-gold-whisky-375",
+  "openingQty": 13,
+  "closingQty": 0,
+  "soldQty": 13,
+  "rate": 420.0,
+  "amount": 5460.0
+ },
+ {
+  "productId": "mansion-hf-gold-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mansion-hf-gold-whisky-90",
+  "openingQty": 208,
+  "closingQty": 0,
+  "soldQty": 208,
+  "rate": 110.0,
+  "amount": 22880.0
+ },
+ {
+  "productId": "maqintosh-silver-edition-whisky-180",
+  "openingQty": 14,
+  "closingQty": 0,
+  "soldQty": 14,
+  "rate": 380.0,
+  "amount": 5320.0
+ },
+ {
+  "productId": "maqintosh-silver-fdition-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "maqintosh-silver-fdition-whisky-750",
+  "openingQty": 13,
+  "closingQty": 0,
+  "soldQty": 13,
+  "rate": 1530.0,
+  "amount": 19890.0
+ },
+ {
+  "productId": "mateus-rose-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mc-dowell-premium-citron-rum-180",
+  "openingQty": 160,
+  "closingQty": 0,
+  "soldQty": 160,
+  "rate": 250.0,
+  "amount": 40000.0
+ },
+ {
+  "productId": "mc-dowell-premium-citron-rum-750",
+  "openingQty": 409,
+  "closingQty": 0,
+  "soldQty": 409,
+  "rate": 970.0,
+  "amount": 396730.0
+ },
+ {
+  "productId": "mc-dowell-premium-dark-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mc-dowell-premium-dark-rum-750",
+  "openingQty": 17,
+  "closingQty": 0,
+  "soldQty": 17,
+  "rate": 900.0,
+  "amount": 15300.0
+ },
+ {
+  "productId": "mcdowell-cel-rum-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mcdowell-cel-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mcdowell-cel-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mcdowell-cel-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mcdowell-no-1-luxury-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mcdowell-no-1-luxury-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mcdowell-no-1-luxury-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mcdowell-no-1-luxury-whisky-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mcdowell-no-1-whisky-090",
+  "openingQty": 295,
+  "closingQty": 0,
+  "soldQty": 295,
+  "rate": 100.0,
+  "amount": 29500.0
+ },
+ {
+  "productId": "mcdowell-no-1-whisky-180",
+  "openingQty": 586,
+  "closingQty": 0,
+  "soldQty": 586,
+  "rate": 190.0,
+  "amount": 111340.0
+ },
+ {
+  "productId": "mcdowell-no-1-whisky-375",
+  "openingQty": 138,
+  "closingQty": 0,
+  "soldQty": 138,
+  "rate": 380.0,
+  "amount": 52440.0
+ },
+ {
+  "productId": "mcdowell-no-1-whisky-750",
+  "openingQty": 36,
+  "closingQty": 0,
+  "soldQty": 36,
+  "rate": 740.0,
+  "amount": 26640.0
+ },
+ {
+  "productId": "mcdowell-premium-rum-180",
+  "openingQty": 333,
+  "closingQty": 0,
+  "soldQty": 333,
+  "rate": 180.0,
+  "amount": 59940.0
+ },
+ {
+  "productId": "mcdowell-premium-rum-375",
+  "openingQty": 91,
+  "closingQty": 0,
+  "soldQty": 91,
+  "rate": 360.0,
+  "amount": 32760.0
+ },
+ {
+  "productId": "mcdowell-premium-rum-750",
+  "openingQty": 30,
+  "closingQty": 0,
+  "soldQty": 30,
+  "rate": 680.0,
+  "amount": 20400.0
+ },
+ {
+  "productId": "mcdowell-premium-rum-90",
+  "openingQty": 323,
+  "closingQty": 0,
+  "soldQty": 323,
+  "rate": 100.0,
+  "amount": 32300.0
+ },
+ {
+  "productId": "milestone-blue-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "milestone-blue-whisky-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "mirar-craft-wheat-ac-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "monkey-47-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "monkey-shoulder-whisky-700",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "morpheus-xo-brandy-180",
+  "openingQty": 45,
+  "closingQty": 0,
+  "soldQty": 45,
+  "rate": 290.0,
+  "amount": 13050.0
+ },
+ {
+  "productId": "morpheus-xo-brandy-375",
+  "openingQty": 22,
+  "closingQty": 0,
+  "soldQty": 22,
+  "rate": 590.0,
+  "amount": 12980.0
+ },
+ {
+  "productId": "morpheus-xo-brandy-750",
+  "openingQty": 13,
+  "closingQty": 0,
+  "soldQty": 13,
+  "rate": 1160.0,
+  "amount": 15080.0
+ },
+ {
+  "productId": "murano-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "murano-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "murano-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "nashik-port-gold-sweet-red-wine-750",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 650.0,
+  "amount": 1300.0
+ },
+ {
+  "productId": "nepal-tiger-deluxe-beer-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "nepoleon-brandy-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "nepoleon-brandy-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "nepoleon-brandy-750",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 880.0,
+  "amount": 1760.0
+ },
+ {
+  "productId": "new-absolute-vodka-750",
+  "openingQty": 29,
+  "closingQty": 0,
+  "soldQty": 29,
+  "rate": 1900.0,
+  "amount": 55100.0
+ },
+ {
+  "productId": "new-absolute-strn-vodka-750",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 2070.0,
+  "amount": 16560.0
+ },
+ {
+  "productId": "new-absolute-vodka-200",
+  "openingQty": 62,
+  "closingQty": 0,
+  "soldQty": 62,
+  "rate": 530.0,
+  "amount": 32860.0
+ },
+ {
+  "productId": "new-amora-red-wine-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-amora-red-wine-750",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 440.0,
+  "amount": 3520.0
+ },
+ {
+  "productId": "new-amrut-fusion-single-malt-whisky-750",
+  "openingQty": 11,
+  "closingQty": 0,
+  "soldQty": 11,
+  "rate": 4150.0,
+  "amount": 45650.0
+ },
+ {
+  "productId": "new-bacardi-ginger-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-bacardi-ginger-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-bacardi-ginger-rum-750",
+  "openingQty": 19,
+  "closingQty": 0,
+  "soldQty": 19,
+  "rate": 1100.0,
+  "amount": 20900.0
+ },
+ {
+  "productId": "new-ballantines-fines-b-s-whisky-750",
+  "openingQty": 34,
+  "closingQty": 0,
+  "soldQty": 34,
+  "rate": 1960.0,
+  "amount": 66640.0
+ },
+ {
+  "productId": "new-bee-feater-london-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-black-tower-dornfelder-red-wine-750",
+  "openingQty": 5,
+  "closingQty": 0,
+  "soldQty": 5,
+  "rate": 1720.0,
+  "amount": 8600.0
+ },
+ {
+  "productId": "new-bombay-saphire-gin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-bro-code-c-brut-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-bro-light-seco-330",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-chivas-regal-12-yr-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-chivas-regal-18yr-750",
+  "openingQty": 7,
+  "closingQty": 0,
+  "soldQty": 7,
+  "rate": 8990.0,
+  "amount": 62930.0
+ },
+ {
+  "productId": "new-deewar-12-yr-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 3260.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-dewar-aged-15-yrs-blended-scotch-whisky-750",
+  "openingQty": 10,
+  "closingQty": 0,
+  "soldQty": 10,
+  "rate": 3800.0,
+  "amount": 38000.0
+ },
+ {
+  "productId": "new-fratelli-classic-chenin-375",
+  "openingQty": 5,
+  "closingQty": 0,
+  "soldQty": 5,
+  "rate": 450.0,
+  "amount": 2250.0
+ },
+ {
+  "productId": "new-fratelli-classic-chenin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-fratelli-classic-merlot-750",
+  "openingQty": 5,
+  "closingQty": 0,
+  "soldQty": 5,
+  "rate": 730.0,
+  "amount": 3650.0
+ },
+ {
+  "productId": "new-fratelli-classic-merlot-375",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 380.0,
+  "amount": 760.0
+ },
+ {
+  "productId": "new-fratelli-classic-shiraz-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-fratelli-classic-shiraz-750",
+  "openingQty": 9,
+  "closingQty": 0,
+  "soldQty": 9,
+  "rate": 640.0,
+  "amount": 5760.0
+ },
+ {
+  "productId": "new-fratelli-franc-shiraz-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-fratelli-franc-shiraz-750",
+  "openingQty": 1,
+  "closingQty": 0,
+  "soldQty": 1,
+  "rate": 810.0,
+  "amount": 810.0
+ },
+ {
+  "productId": "new-fratelli-gran-cuvee-brut-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-fratelli-ms-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-glenlivet-12yr-1-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-glenlivet-12yr-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-grover-auriga-celestial-brut-750",
+  "openingQty": 9,
+  "closingQty": 0,
+  "soldQty": 9,
+  "rate": 1620.0,
+  "amount": 14580.0
+ },
+ {
+  "productId": "new-grover-chene-grande-res-red-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-grover-shiraz-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-hardys-chardonnay-semillon-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-hardys-shiraj-carbenet-red-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-jacob-s-creek-classic-chardonnay-187",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-jacob-s-creek-classic-shiraz-187",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-jacob-s-creek-shiraz-cabernet-750",
+  "openingQty": 33,
+  "closingQty": 0,
+  "soldQty": 33,
+  "rate": 1400.0,
+  "amount": 46200.0
+ },
+ {
+  "productId": "new-jacobs-creek-chardonnay-1-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-jacobs-creek-chardonnay-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-jacobs-creek-pinot-noir-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-jaisalmer-gin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-jameson-whisky-750",
+  "openingQty": 178,
+  "closingQty": 0,
+  "soldQty": 178,
+  "rate": 2400.0,
+  "amount": 427200.0
+ },
+ {
+  "productId": "new-johnnie-walker-blue-lable-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-johnnie-walker-gl-750",
+  "openingQty": 49,
+  "closingQty": 0,
+  "soldQty": 49,
+  "rate": 6380.0,
+  "amount": 312620.0
+ },
+ {
+  "productId": "new-kyra-shiraz-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-kyra-shiraz-375",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 240.0,
+  "amount": 9120.0
+ },
+ {
+  "productId": "new-macallan-single-malt-12-yrs-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-magic-moments-verve-vodka-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-magic-moments-verve-vodka-375",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 540.0,
+  "amount": 2160.0
+ },
+ {
+  "productId": "new-magic-moments-verve-vodka-750",
+  "openingQty": 1,
+  "closingQty": 0,
+  "soldQty": 1,
+  "rate": 1030.0,
+  "amount": 1030.0
+ },
+ {
+  "productId": "new-noi-sparkling-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-royal-salute-blended-scotch-whisky-21-700",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 18080.0,
+  "amount": 72320.0
+ },
+ {
+  "productId": "new-samara-red-wine-750",
+  "openingQty": 17,
+  "closingQty": 0,
+  "soldQty": 17,
+  "rate": 450.0,
+  "amount": 7650.0
+ },
+ {
+  "productId": "new-santa-cruz-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-sidus-premium-port-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-sula-vc-riesling-750",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 950.0,
+  "amount": 7600.0
+ },
+ {
+  "productId": "new-sula-gf-rose-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-sula-mosaic-grenache-syrah-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-sula-vineyard-shiraz-cabernet-750-1",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-sula-vineyards-shiraz-caberent-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-tilt-bubbly-250",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-tilt-bubbly-rose-250",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-tilt-red-250",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "new-tilt-white-250",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "oak-smith-international-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "oak-smith-international-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "oak-smith-international-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "oak-smith-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "oak-smith-whisky-375",
+  "openingQty": 27,
+  "closingQty": 0,
+  "soldQty": 27,
+  "rate": 620.0,
+  "amount": 16740.0
+ },
+ {
+  "productId": "oak-smith-whisky-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 1240.0,
+  "amount": 3720.0
+ },
+ {
+  "productId": "oaken-glow-premium-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "oaken-glow-premium-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "oaken-glow-premium-whisky-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 1050.0,
+  "amount": 3150.0
+ },
+ {
+  "productId": "oaken-glow-premium-whisky-90",
+  "openingQty": 69,
+  "closingQty": 0,
+  "soldQty": 69,
+  "rate": 150.0,
+  "amount": 10350.0
+ },
+ {
+  "productId": "officers-choice-blue-90",
+  "openingQty": 213,
+  "closingQty": 0,
+  "soldQty": 213,
+  "rate": 100.0,
+  "amount": 21300.0
+ },
+ {
+  "productId": "officers-choice-blue-180",
+  "openingQty": 136,
+  "closingQty": 0,
+  "soldQty": 136,
+  "rate": 190.0,
+  "amount": 25840.0
+ },
+ {
+  "productId": "officers-choice-blue-375",
+  "openingQty": 83,
+  "closingQty": 0,
+  "soldQty": 83,
+  "rate": 380.0,
+  "amount": 31540.0
+ },
+ {
+  "productId": "officers-choice-blue-750",
+  "openingQty": 30,
+  "closingQty": 0,
+  "soldQty": 30,
+  "rate": 760.0,
+  "amount": 22800.0
+ },
+ {
+  "productId": "officers-choice-whisky-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "officers-choice-whisky-180",
+  "openingQty": 39,
+  "closingQty": 0,
+  "soldQty": 39,
+  "rate": 180.0,
+  "amount": 7020.0
+ },
+ {
+  "productId": "officers-choice-whisky-375",
+  "openingQty": 39,
+  "closingQty": 0,
+  "soldQty": 39,
+  "rate": 350.0,
+  "amount": 13650.0
+ },
+ {
+  "productId": "officers-choice-whisky-750",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 700.0,
+  "amount": 5600.0
+ },
+ {
+  "productId": "old-monk-coffe-pre-rum-180",
+  "openingQty": 17,
+  "closingQty": 0,
+  "soldQty": 17,
+  "rate": 290.0,
+  "amount": 4930.0
+ },
+ {
+  "productId": "old-monk-coffe-pre-rum-375",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 570.0,
+  "amount": 1710.0
+ },
+ {
+  "productId": "old-monk-coffe-pre-rum-750",
+  "openingQty": 27,
+  "closingQty": 0,
+  "soldQty": 27,
+  "rate": 1130.0,
+  "amount": 30510.0
+ },
+ {
+  "productId": "old-monk-gold-rum-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-gold-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-gold-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-gold-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-lemon-cirtus-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-lemon-cirtus-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-lemon-cirtus-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-lemon-citrus-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-lemon-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-lemon-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-lemon-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-rum-v-o-vatted-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-rum-v-o-vatted-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-rum-v-o-vatted-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-the-legend-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-monk-the-legend-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-port-delexue-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "old-port-delexue-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "one-tree-hill-mulled-kadha-red-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 700.0,
+  "amount": 2800.0
+ },
+ {
+  "productId": "outback-jack-shiraj-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "parkers-finest-blended-scotch-whisky-700",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "peter-scot-black-single-malt-whisky-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 4020.0,
+  "amount": 16080.0
+ },
+ {
+  "productId": "peter-scot-pre-malt-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "poul-john-indian-single-malt-whisky-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 4820.0,
+  "amount": 19280.0
+ },
+ {
+  "productId": "rampur-indian-single-malt-whisky-cask-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "rampur-indian-single-malt-whisky-cask-60",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "rasa-syrah-750",
+  "openingQty": 22,
+  "closingQty": 0,
+  "soldQty": 22,
+  "rate": 1830.0,
+  "amount": 40260.0
+ },
+ {
+  "productId": "rio-gold-strong-party-drink-330-ml",
+  "openingQty": 1,
+  "closingQty": 0,
+  "soldQty": 1,
+  "rate": 170.0,
+  "amount": 170.0
+ },
+ {
+  "productId": "rio-red-strong-party-drink-330-ml",
+  "openingQty": 12,
+  "closingQty": 0,
+  "soldQty": 12,
+  "rate": 170.0,
+  "amount": 2040.0
+ },
+ {
+  "productId": "rio-spritzer-fizzy-wine-cooler-cn-330",
+  "openingQty": 9,
+  "closingQty": 0,
+  "soldQty": 9,
+  "rate": 160.0,
+  "amount": 1440.0
+ },
+ {
+  "productId": "rio-spritzer-fizzy-wine-cooler-lem-passion-330",
+  "openingQty": 13,
+  "closingQty": 0,
+  "soldQty": 13,
+  "rate": 160.0,
+  "amount": 2080.0
+ },
+ {
+  "productId": "rio-strong-330-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "rio-strong-extra-dry-330-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "rockford-classic-fb-1000",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "rockford-classic-fb-180",
+  "openingQty": 161,
+  "closingQty": 0,
+  "soldQty": 161,
+  "rate": 300.0,
+  "amount": 48300.0
+ },
+ {
+  "productId": "rockford-classic-fb-375",
+  "openingQty": 154,
+  "closingQty": 0,
+  "soldQty": 154,
+  "rate": 600.0,
+  "amount": 92400.0
+ },
+ {
+  "productId": "rockford-classic-fb-750",
+  "openingQty": 73,
+  "closingQty": 0,
+  "soldQty": 73,
+  "rate": 1190.0,
+  "amount": 86870.0
+ },
+ {
+  "productId": "rockford-imperial-180",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 440.0,
+  "amount": 16720.0
+ },
+ {
+  "productId": "rockford-imperial-375",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 880.0,
+  "amount": 7040.0
+ },
+ {
+  "productId": "rockford-imperial-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 1740.0,
+  "amount": 6960.0
+ },
+ {
+  "productId": "rockford-reserve-1000",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "rockford-reserve-180",
+  "openingQty": 177,
+  "closingQty": 0,
+  "soldQty": 177,
+  "rate": 370.0,
+  "amount": 65490.0
+ },
+ {
+  "productId": "rockford-reserve-375",
+  "openingQty": 92,
+  "closingQty": 0,
+  "soldQty": 92,
+  "rate": 730.0,
+  "amount": 67160.0
+ },
+ {
+  "productId": "rockford-reserve-750",
+  "openingQty": 58,
+  "closingQty": 0,
+  "soldQty": 58,
+  "rate": 1460.0,
+  "amount": 84680.0
+ },
+ {
+  "productId": "roulette-peated-pre-whysky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 1350.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "roulette-peated-premium-whysky-180",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 340.0,
+  "amount": 12920.0
+ },
+ {
+  "productId": "royal-bhutan-classic-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-bhutan-classic-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-bhutan-classic-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-bhutan-classic-rum-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-brackla-single-malt-scotch-whisky-700",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 17360.0,
+  "amount": 34720.0
+ },
+ {
+  "productId": "royal-challenge-american-pride-gold-180",
+  "openingQty": 60,
+  "closingQty": 0,
+  "soldQty": 60,
+  "rate": 320.0,
+  "amount": 19200.0
+ },
+ {
+  "productId": "royal-challenge-american-pride-gold-750",
+  "openingQty": 19,
+  "closingQty": 0,
+  "soldQty": 19,
+  "rate": 1250.0,
+  "amount": 23750.0
+ },
+ {
+  "productId": "royal-challenge-strong-premium-beer-500-ml",
+  "openingQty": 92,
+  "closingQty": 0,
+  "soldQty": 92,
+  "rate": 150.0,
+  "amount": 13800.0
+ },
+ {
+  "productId": "royal-chlng-whisky-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-chlng-whisky-180",
+  "openingQty": 356,
+  "closingQty": 0,
+  "soldQty": 356,
+  "rate": 220.0,
+  "amount": 78320.0
+ },
+ {
+  "productId": "royal-chlng-whisky-375",
+  "openingQty": 104,
+  "closingQty": 0,
+  "soldQty": 104,
+  "rate": 440.0,
+  "amount": 45760.0
+ },
+ {
+  "productId": "royal-chlng-whisky-750",
+  "openingQty": 34,
+  "closingQty": 0,
+  "soldQty": 34,
+  "rate": 870.0,
+  "amount": 29580.0
+ },
+ {
+  "productId": "royal-envy-exclusive-pre-180ml",
+  "openingQty": 30,
+  "closingQty": 0,
+  "soldQty": 30,
+  "rate": 330.0,
+  "amount": 9900.0
+ },
+ {
+  "productId": "royal-envy-exclusive-pre-375ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-envy-exclusive-pre-750-ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-green-whisky-180",
+  "openingQty": 610,
+  "closingQty": 0,
+  "soldQty": 610,
+  "rate": 210.0,
+  "amount": 128100.0
+ },
+ {
+  "productId": "royal-green-whisky-375",
+  "openingQty": 198,
+  "closingQty": 0,
+  "soldQty": 198,
+  "rate": 430.0,
+  "amount": 85140.0
+ },
+ {
+  "productId": "royal-green-whisky-750",
+  "openingQty": 69,
+  "closingQty": 0,
+  "soldQty": 69,
+  "rate": 850.0,
+  "amount": 58650.0
+ },
+ {
+  "productId": "royal-green-whisky-90",
+  "openingQty": 135,
+  "closingQty": 0,
+  "soldQty": 135,
+  "rate": 110.0,
+  "amount": 14850.0
+ },
+ {
+  "productId": "royal-ranthambore-reserve-whisky-180",
+  "openingQty": 6,
+  "closingQty": 0,
+  "soldQty": 6,
+  "rate": 590.0,
+  "amount": 3540.0
+ },
+ {
+  "productId": "royal-ranthambore-reserve-whisky-60",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-ranthambore-reserve-whisky-750",
+  "openingQty": 1,
+  "closingQty": 0,
+  "soldQty": 1,
+  "rate": 2280.0,
+  "amount": 2280.0
+ },
+ {
+  "productId": "royal-ranthambore-reserve-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-salute-blended-scotch-whisky-700",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-squad-pre-dark-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-squad-pre-dark-rum-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-squad-pre-dark-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 760.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-squad-pre-dark-rum-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-stag-barrel-180",
+  "openingQty": 103,
+  "closingQty": 0,
+  "soldQty": 103,
+  "rate": 230.0,
+  "amount": 23690.0
+ },
+ {
+  "productId": "royal-stag-barrel-375",
+  "openingQty": 42,
+  "closingQty": 0,
+  "soldQty": 42,
+  "rate": 460.0,
+  "amount": 19320.0
+ },
+ {
+  "productId": "royal-stag-barrel-750",
+  "openingQty": 51,
+  "closingQty": 0,
+  "soldQty": 51,
+  "rate": 910.0,
+  "amount": 46410.0
+ },
+ {
+  "productId": "royal-stag-barrel-90",
+  "openingQty": 66,
+  "closingQty": 0,
+  "soldQty": 66,
+  "rate": 130.0,
+  "amount": 8580.0
+ },
+ {
+  "productId": "royal-stag-double-dark-whiskey-180",
+  "openingQty": 21,
+  "closingQty": 0,
+  "soldQty": 21,
+  "rate": 230.0,
+  "amount": 4830.0
+ },
+ {
+  "productId": "royal-stag-double-dark-whiskey-375",
+  "openingQty": 83,
+  "closingQty": 0,
+  "soldQty": 83,
+  "rate": 450.0,
+  "amount": 37350.0
+ },
+ {
+  "productId": "royal-stag-double-dark-whiskey-750",
+  "openingQty": 14,
+  "closingQty": 0,
+  "soldQty": 14,
+  "rate": 880.0,
+  "amount": 12320.0
+ },
+ {
+  "productId": "royal-stag-double-dark-whiskey-90",
+  "openingQty": 37,
+  "closingQty": 0,
+  "soldQty": 37,
+  "rate": 120.0,
+  "amount": 4440.0
+ },
+ {
+  "productId": "royal-stag-reserve-whisky-150",
+  "openingQty": 25,
+  "closingQty": 0,
+  "soldQty": 25,
+  "rate": 190.0,
+  "amount": 4750.0
+ },
+ {
+  "productId": "royal-stag-reserve-whisky-180",
+  "openingQty": 280,
+  "closingQty": 0,
+  "soldQty": 280,
+  "rate": 220.0,
+  "amount": 61600.0
+ },
+ {
+  "productId": "royal-stag-reserve-whisky-375",
+  "openingQty": 58,
+  "closingQty": 0,
+  "soldQty": 58,
+  "rate": 430.0,
+  "amount": 24940.0
+ },
+ {
+  "productId": "royal-stag-reserve-whisky-750",
+  "openingQty": 43,
+  "closingQty": 0,
+  "soldQty": 43,
+  "rate": 850.0,
+  "amount": 36550.0
+ },
+ {
+  "productId": "royal-stag-reserve-whisky-90",
+  "openingQty": 252,
+  "closingQty": 0,
+  "soldQty": 252,
+  "rate": 110.0,
+  "amount": 27720.0
+ },
+ {
+  "productId": "royal-stag-whisky-090",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-stag-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-stag-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "royal-stag-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "samara-white-wine-750",
+  "openingQty": 23,
+  "closingQty": 0,
+  "soldQty": 23,
+  "rate": 450.0,
+  "amount": 10350.0
+ },
+ {
+  "productId": "samsara-city-pink-gin-750",
+  "openingQty": 5,
+  "closingQty": 0,
+  "soldQty": 5,
+  "rate": 2520.0,
+  "amount": 12600.0
+ },
+ {
+  "productId": "samsara-indian-gin-750",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 2000.0,
+  "amount": 4000.0
+ },
+ {
+  "productId": "sangam-world-malt-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "santa-cruz-wine-180",
+  "openingQty": 52,
+  "closingQty": 0,
+  "soldQty": 52,
+  "rate": 110.0,
+  "amount": 5720.0
+ },
+ {
+  "productId": "santa-cruz-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sante-shiraz-750",
+  "openingQty": 4,
+  "closingQty": 0,
+  "soldQty": 4,
+  "rate": 550.0,
+  "amount": 2200.0
+ },
+ {
+  "productId": "scottich-leader-blended-scotch-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sidus-premium-port-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sidus-premium-red-wine-180",
+  "openingQty": 15,
+  "closingQty": 0,
+  "soldQty": 15,
+  "rate": 110.0,
+  "amount": 1650.0
+ },
+ {
+  "productId": "sidus-premium-red-wine-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sidus-premium-red-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "signature-pre-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "signature-pre-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "signature-pre-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "signature-rare-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "signature-rare-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "signature-rare-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "singhasan-finet-whisky-180",
+  "openingQty": 17,
+  "closingQty": 0,
+  "soldQty": 17,
+  "rate": 570.0,
+  "amount": 9690.0
+ },
+ {
+  "productId": "singhasan-finet-whisky-375",
+  "openingQty": 11,
+  "closingQty": 0,
+  "soldQty": 11,
+  "rate": 1090.0,
+  "amount": 11990.0
+ },
+ {
+  "productId": "singhasan-finet-whisky-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 2180.0,
+  "amount": 6540.0
+ },
+ {
+  "productId": "single-oak-whiskey-180-ml",
+  "openingQty": 35,
+  "closingQty": 0,
+  "soldQty": 35,
+  "rate": 230.0,
+  "amount": 8050.0
+ },
+ {
+  "productId": "single-oak-whiskey-375-ml",
+  "openingQty": 37,
+  "closingQty": 0,
+  "soldQty": 37,
+  "rate": 470.0,
+  "amount": 17390.0
+ },
+ {
+  "productId": "single-oak-whiskey-750-ml",
+  "openingQty": 21,
+  "closingQty": 0,
+  "soldQty": 21,
+  "rate": 930.0,
+  "amount": 19530.0
+ },
+ {
+  "productId": "skyy-vodka-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "smirn-off-vodka-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "smirn-off-vodka-375",
+  "openingQty": 29,
+  "closingQty": 0,
+  "soldQty": 29,
+  "rate": 520.0,
+  "amount": 15080.0
+ },
+ {
+  "productId": "smirn-off-vodka-750",
+  "openingQty": 17,
+  "closingQty": 0,
+  "soldQty": 17,
+  "rate": 1020.0,
+  "amount": 17340.0
+ },
+ {
+  "productId": "smoke-vodka-aniseed-60ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "smoke-vodka-aniseed-750ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "smoke-vodka-classic-60ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "smoke-vodka-classic-750ml",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "something-special-blended-scotch-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sterling-reserve-b-7-whisky-180",
+  "openingQty": 243,
+  "closingQty": 0,
+  "soldQty": 243,
+  "rate": 210.0,
+  "amount": 51030.0
+ },
+ {
+  "productId": "sterling-reserve-b-7-whisky-375",
+  "openingQty": 120,
+  "closingQty": 0,
+  "soldQty": 120,
+  "rate": 430.0,
+  "amount": 51600.0
+ },
+ {
+  "productId": "sterling-reserve-b-7-whisky-750",
+  "openingQty": 26,
+  "closingQty": 0,
+  "soldQty": 26,
+  "rate": 850.0,
+  "amount": 22100.0
+ },
+ {
+  "productId": "sterling-reserve-b-7-whisky-90",
+  "openingQty": 336,
+  "closingQty": 0,
+  "soldQty": 336,
+  "rate": 110.0,
+  "amount": 36960.0
+ },
+ {
+  "productId": "sterling-reserve-b10-whisky-180",
+  "openingQty": 165,
+  "closingQty": 0,
+  "soldQty": 165,
+  "rate": 310.0,
+  "amount": 51150.0
+ },
+ {
+  "productId": "sterling-reserve-b10-whisky-375",
+  "openingQty": 6,
+  "closingQty": 0,
+  "soldQty": 6,
+  "rate": 610.0,
+  "amount": 3660.0
+ },
+ {
+  "productId": "sterling-reserve-b10-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sterren-8-german-style-strong-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "stolichnaya-vodka-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sula-brut-method-trd-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sula-dindorri-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sula-gf-rose-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sula-vc-red-wine-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sula-vc-red-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sula-zinfandel-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sula-brut-cremant-de-nashik-750",
+  "openingQty": 12,
+  "closingQty": 0,
+  "soldQty": 12,
+  "rate": 1480.0,
+  "amount": 17760.0
+ },
+ {
+  "productId": "sula-dindori-reserve-chardonnay-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 1360.0,
+  "amount": 4080.0
+ },
+ {
+  "productId": "sula-vc-blanco-wine-375",
+  "openingQty": 7,
+  "closingQty": 0,
+  "soldQty": 7,
+  "rate": 460.0,
+  "amount": 3220.0
+ },
+ {
+  "productId": "sula-vc-blanco-wine-750",
+  "openingQty": 5,
+  "closingQty": 0,
+  "soldQty": 5,
+  "rate": 860.0,
+  "amount": 4300.0
+ },
+ {
+  "productId": "sula-vineyard-shiraz-cabenet-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "sula-vineyard-shizaz-cabernet-180",
+  "openingQty": 45,
+  "closingQty": 0,
+  "soldQty": 45,
+  "rate": 260.0,
+  "amount": 11700.0
+ },
+ {
+  "productId": "sula-vineyards-rasa-syrah-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "talisker-single-malt-scotch-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "tamerlane-whisky-750",
+  "openingQty": 5,
+  "closingQty": 0,
+  "soldQty": 5,
+  "rate": 2260.0,
+  "amount": 11300.0
+ },
+ {
+  "productId": "tanqueray-londan-dry-gin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "taquila-blanco-don-angel-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "taquila-camino-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "taquila-camino-real-gold-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "teachers-50-scotch-180",
+  "openingQty": 7,
+  "closingQty": 0,
+  "soldQty": 7,
+  "rate": 680.0,
+  "amount": 4760.0
+ },
+ {
+  "productId": "teachers-50-scotch-375",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 1340.0,
+  "amount": 2680.0
+ },
+ {
+  "productId": "teachers-50-scotch-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "teachers-hlc-res-scotch-180",
+  "openingQty": 62,
+  "closingQty": 0,
+  "soldQty": 62,
+  "rate": 600.0,
+  "amount": 37200.0
+ },
+ {
+  "productId": "teachers-hlc-res-scotch-375",
+  "openingQty": 14,
+  "closingQty": 0,
+  "soldQty": 14,
+  "rate": 1200.0,
+  "amount": 16800.0
+ },
+ {
+  "productId": "teachers-hlc-res-scotch-750",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 2380.0,
+  "amount": 4760.0
+ },
+ {
+  "productId": "teachers-hlc-scotch-180",
+  "openingQty": 27,
+  "closingQty": 0,
+  "soldQty": 27,
+  "rate": 550.0,
+  "amount": 14850.0
+ },
+ {
+  "productId": "teachers-hlc-scotch-375",
+  "openingQty": 25,
+  "closingQty": 0,
+  "soldQty": 25,
+  "rate": 1070.0,
+  "amount": 26750.0
+ },
+ {
+  "productId": "teachers-hlc-scotch-750",
+  "openingQty": 18,
+  "closingQty": 0,
+  "soldQty": 18,
+  "rate": 2090.0,
+  "amount": 37620.0
+ },
+ {
+  "productId": "teachers-origin-1000",
+  "openingQty": 2,
+  "closingQty": 0,
+  "soldQty": 2,
+  "rate": 3680.0,
+  "amount": 7360.0
+ },
+ {
+  "productId": "teachers-origin-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "tequila-camino-real-blanco-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 2640.0,
+  "amount": 7920.0
+ },
+ {
+  "productId": "tequila-patron-silver-750",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 6060.0,
+  "amount": 18180.0
+ },
+ {
+  "productId": "the-famous-grouse-scotch-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "the-glengarry-hi-land-blended-scotch-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "the-glengarry-reserve-high-land-scotch-whisky-1000",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "the-glenlivet-12yrs-single-malt-scotch-700",
+  "openingQty": 14,
+  "closingQty": 0,
+  "soldQty": 14,
+  "rate": 4940.0,
+  "amount": 69160.0
+ },
+ {
+  "productId": "the-glenwalk-scotch-700",
+  "openingQty": 11,
+  "closingQty": 0,
+  "soldQty": 11,
+  "rate": 1810.0,
+  "amount": 19910.0
+ },
+ {
+  "productId": "the-hawkston-noble-reserve-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "the-hawkston-noble-reserve-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "the-hawkston-noble-reserve-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "the-singleton-12-yrs-malt-sch-whiskey-700",
+  "openingQty": 38,
+  "closingQty": 0,
+  "soldQty": 38,
+  "rate": 5430.0,
+  "amount": 206340.0
+ },
+ {
+  "productId": "the-singleton-15-yrs-malt-sch-whiskey-700",
+  "openingQty": 12,
+  "closingQty": 0,
+  "soldQty": 12,
+  "rate": 6690.0,
+  "amount": 80280.0
+ },
+ {
+  "productId": "the-souree-cabernet-sauvignon-750",
+  "openingQty": 1,
+  "closingQty": 0,
+  "soldQty": 1,
+  "rate": 1620.0,
+  "amount": 1620.0
+ },
+ {
+  "productId": "the-souree-granache-rose-750",
+  "openingQty": 6,
+  "closingQty": 0,
+  "soldQty": 6,
+  "rate": 1430.0,
+  "amount": 8580.0
+ },
+ {
+  "productId": "tilt-bubbly-rose-250",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "tilt-red-250",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "tilt-white-250",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "trek-pure-luxury-rum-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "trek-pure-luxury-rum-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "tuberg-classic-black-gold-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "tuborg-st-500",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "tuborg-st-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "vat-69-scotch-whisky-180",
+  "openingQty": 3,
+  "closingQty": 0,
+  "soldQty": 3,
+  "rate": 530.0,
+  "amount": 1590.0
+ },
+ {
+  "productId": "vat-69-scotch-whisky-375",
+  "openingQty": 26,
+  "closingQty": 0,
+  "soldQty": 26,
+  "rate": 1030.0,
+  "amount": 26780.0
+ },
+ {
+  "productId": "vat-69-scotch-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "whiscots-rare-whisky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "whiscots-rare-whisky-375",
+  "openingQty": 19,
+  "closingQty": 0,
+  "soldQty": 19,
+  "rate": 440.0,
+  "amount": 8360.0
+ },
+ {
+  "productId": "whiscots-rare-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "white-blue-whisky-180",
+  "openingQty": 9,
+  "closingQty": 0,
+  "soldQty": 9,
+  "rate": 210.0,
+  "amount": 1890.0
+ },
+ {
+  "productId": "white-blue-whisky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "white-blue-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "white-blue-whisky-90",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "william-lawson-s-blended-scoth-whishky-375",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "willim-lawson-s-blended-scotch-wishky-180",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "willim-lawson-s-blended-scotch-wishky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "wing-man-blended-malt-whisky-180",
+  "openingQty": 8,
+  "closingQty": 0,
+  "soldQty": 8,
+  "rate": 420.0,
+  "amount": 3360.0
+ },
+ {
+  "productId": "wing-man-blended-malt-whisky-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "woodpecker-crest-strong-650",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ },
+ {
+  "productId": "zampa-soiree-brut-met-trad-wine-750",
+  "openingQty": 0,
+  "closingQty": 0,
+  "soldQty": 0,
+  "rate": 0.0,
+  "amount": 0.0
+ }
+]
