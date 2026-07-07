@@ -247,7 +247,7 @@ export function transitionOrder(
         lineTotal: sub.unitPrice * item.qty,
         substitutedFrom: item.name,
       };
-      recalcTotals(order, db.stateConfig);
+      recalcTotals(order);
       order.substitution = null;
       order.status = "ACCEPTED";
       pushEvent(order, "SUBSTITUTION_APPROVED", "Price delta auto-adjusted (mock refund/charge)");
@@ -267,7 +267,7 @@ export function transitionOrder(
         pushEvent(order, "CANCELLED", "No items left after declined substitution");
         pushEvent(order, "REFUND_INITIATED", "Full mock refund");
       } else {
-        recalcTotals(order, db.stateConfig);
+        recalcTotals(order);
         order.status = "ACCEPTED";
         pushEvent(order, "SUBSTITUTION_DECLINED", "Item removed, delta refunded (mock)");
       }
@@ -340,7 +340,7 @@ export function transitionOrder(
   return { order };
 }
 
-function recalcTotals(order: Order, config: StateConfig): void {
+function recalcTotals(order: Order): void {
   for (const it of order.items) it.lineTotal = it.unitPrice * it.qty;
   order.subtotal = order.items.reduce((s, i) => s + i.lineTotal, 0);
   order.total = order.subtotal + order.deliveryFee + order.convenienceFee;

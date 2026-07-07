@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useState } from "react";
 import type { CatalogEntry, Order } from "@/lib/types";
 import {
   Bootstrap, CATEGORY_EMOJI, api, inr, timeAgo, usePoll,
@@ -27,7 +27,9 @@ function haversineKm(aLat: number, aLng: number, bLat: number, bLng: number) {
 
 export default function CustomerApp() {
   const [boot, setBoot] = useState<Bootstrap | null>(null);
-  const [ageOk, setAgeOk] = useState<boolean | null>(null);
+  const [ageOk, setAgeOk] = useState<boolean | null>(() =>
+    typeof window === "undefined" ? null : localStorage.getItem("age-verified") === "yes",
+  );
   const [customerId, setCustomerId] = useState("cust-ravi");
   const [addressId, setAddressId] = useState("addr-ravi-1");
   const [view, setView] = useState<View>("shops");
@@ -41,10 +43,6 @@ export default function CustomerApp() {
   const [openOrder, setOpenOrder] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [placing, setPlacing] = useState(false);
-
-  useEffect(() => {
-    setAgeOk(localStorage.getItem("age-verified") === "yes");
-  }, []);
 
   usePoll(() => {
     api<Bootstrap>("/api/bootstrap").then(setBoot).catch(() => {});
@@ -104,8 +102,10 @@ export default function CustomerApp() {
         }),
       });
       setCart([]);
+      setOrders((prev) => [order, ...prev.filter((o) => o.id !== order.id)]);
       setView("orders");
       setOpenOrder(order.id);
+      loadCatalog();
     } catch (e) {
       setError((e as Error).message);
     } finally {
@@ -116,23 +116,22 @@ export default function CustomerApp() {
   async function transition(orderId: string, body: object) {
     setError(null);
     try {
-      await api(`/api/orders/${orderId}/transition`, {
+      const { order } = await api<{ order: Order }>(`/api/orders/${orderId}/transition`, {
         method: "POST",
         body: JSON.stringify(body),
       });
-      const d = await api<{ orders: Order[] }>(`/api/orders?customerId=${customerId}`);
-      setOrders(d.orders);
+      setOrders((prev) => prev.map((o) => (o.id === order.id ? order : o)));
+      loadCatalog();
     } catch (e) {
       setError((e as Error).message);
     }
   }
 
-  const shopsWithDistance = useMemo(() => {
-    if (!boot || !address) return [];
-    return boot.shops
+  const shopsWithDistance = boot && address
+    ? boot.shops
       .map((s) => ({ shop: s, km: haversineKm(address.lat, address.lng, s.lat, s.lng) }))
-      .sort((a, b) => a.km - b.km);
-  }, [boot, address]);
+      .sort((a, b) => a.km - b.km)
+    : [];
 
   // ---------- age gate ----------
   if (ageOk === null) return null;

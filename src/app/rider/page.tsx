@@ -29,12 +29,11 @@ export default function RiderApp() {
   async function transition(orderId: string, body: object) {
     setError(null);
     try {
-      await api(`/api/orders/${orderId}/transition`, {
+      const { order } = await api<{ order: Order }>(`/api/orders/${orderId}/transition`, {
         method: "POST",
         body: JSON.stringify(body),
       });
-      const d = await api<{ orders: Order[] }>(`/api/orders?riderId=${riderId}`);
-      setOrders(d.orders);
+      setOrders((prev) => prev.map((o) => (o.id === order.id ? order : o)));
     } catch (e) {
       setError((e as Error).message);
     }

@@ -30,7 +30,10 @@ export async function api<T>(path: string, init?: RequestInit): Promise<T> {
  */
 export function usePoll(fn: () => void, deps: unknown[], ms = 3000): void {
   const ref = useRef(fn);
-  ref.current = fn;
+  useEffect(() => {
+    ref.current = fn;
+  }, [fn]);
+
   useEffect(() => {
     ref.current();
     const t = setInterval(() => {

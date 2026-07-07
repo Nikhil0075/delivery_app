@@ -77,12 +77,15 @@ export default function ShopPanel() {
   async function transition(orderId: string, body: object) {
     setError(null);
     try {
-      await api(`/api/orders/${orderId}/transition`, {
+      const { order } = await api<{ order: Order }>(`/api/orders/${orderId}/transition`, {
         method: "POST",
         body: JSON.stringify(body),
       });
-      const d = await api<{ orders: Order[] }>(`/api/orders?shopId=${shopId}`);
-      setOrders(d.orders);
+      setOrders((prev) => prev.map((o) => (o.id === order.id ? order : o)));
+      if (tab === "inventory") loadInventory();
+      if (tab === "settlement") {
+        api<Settlement>(`/api/settlements?shopId=${shopId}`).then(setSettlement).catch(() => {});
+      }
     } catch (e) {
       setError((e as Error).message);
     }
@@ -95,6 +98,8 @@ export default function ShopPanel() {
         method: "PATCH",
         body: JSON.stringify({ shopId, productId, ...patch }),
       });
+      const b = await api<Bootstrap>("/api/bootstrap");
+      setBoot(b);
       loadInventory();
     } catch (e) {
       setError((e as Error).message);
