@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import type { Customer, Rider, Shop, StateConfig } from "./types";
+import { localDemoApi } from "./local-demo-api";
 
 export interface Bootstrap {
   shops: Shop[];
@@ -12,6 +13,10 @@ export interface Bootstrap {
 }
 
 export async function api<T>(path: string, init?: RequestInit): Promise<T> {
+  if (typeof window !== "undefined" && path.startsWith("/api/")) {
+    return localDemoApi<T>(path, init);
+  }
+
   const url = path.startsWith("/api/") && !path.startsWith("/api/rpc")
     ? `/api/rpc?path=${encodeURIComponent(path)}`
     : path;
