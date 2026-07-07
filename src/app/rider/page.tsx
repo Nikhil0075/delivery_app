@@ -59,9 +59,9 @@ export default function RiderApp() {
 
   return (
     <main className="mx-auto max-w-md px-4 pb-16 pt-4">
-      <div className="mb-4 flex items-center justify-between gap-2">
+      <div className="mb-4 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
         <select
-          className="rounded-lg border border-amber-300 bg-white px-2 py-1.5 text-sm font-semibold"
+          className="w-full min-w-0 rounded-lg border border-amber-300 bg-white px-2 py-1.5 text-sm font-semibold sm:w-auto"
           value={riderId}
           onChange={(e) => setRiderId(e.target.value)}
         >
@@ -69,7 +69,7 @@ export default function RiderApp() {
             <option key={r.id} value={r.id}>{r.name} · {r.vehicleNo}</option>
           ))}
         </select>
-        <div className="flex gap-1 rounded-xl bg-amber-200/60 p-1 text-sm font-medium">
+        <div className="grid w-full grid-cols-2 gap-1 rounded-xl bg-amber-200/60 p-1 text-sm font-medium sm:w-auto">
           {(["tasks", "earnings"] as const).map((t) => (
             <button
               key={t}
