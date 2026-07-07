@@ -131,8 +131,8 @@ export function Timeline({ order }: { order: Order }) {
 
 export function Empty({ text }: { text: string }) {
   return (
-    <div className="rounded-xl border border-dashed border-amber-300 p-8 text-center text-sm text-gray-500">
-      {text}
+    <div className="rounded-xl border border-dashed border-amber-300 px-5 py-8 text-center text-xs leading-relaxed text-gray-500 sm:px-8 sm:text-sm">
+      <span className="mx-auto block max-w-64">{text}</span>
     </div>
   );
 }
