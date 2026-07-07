@@ -12,7 +12,10 @@ export interface Bootstrap {
 }
 
 export async function api<T>(path: string, init?: RequestInit): Promise<T> {
-  const res = await fetch(path, {
+  const url = path.startsWith("/api/") && !path.startsWith("/api/rpc")
+    ? `/api/rpc?path=${encodeURIComponent(path)}`
+    : path;
+  const res = await fetch(url, {
     ...init,
     headers: init?.body ? { "Content-Type": "application/json" } : undefined,
     cache: "no-store",
