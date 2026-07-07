@@ -65,7 +65,7 @@ export default function AdminConsole() {
     <main className="mx-auto max-w-5xl px-4 pb-16 pt-4">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
         <h1 className="text-lg font-bold">Admin Console — {cfg.city}, {cfg.state}</h1>
-        <div className="flex gap-1 rounded-xl bg-gray-200 p-1 text-sm font-medium">
+        <div className="flex gap-1 rounded-xl bg-amber-200/60 p-1 text-sm font-medium">
           {(["dashboard", "orders", "shops", "compliance"] as Tab[]).map((t) => (
             <button
               key={t}
@@ -119,9 +119,9 @@ export default function AdminConsole() {
                         {inr(s.gmv)} · {s.units}u
                       </span>
                     </div>
-                    <div className="mt-0.5 h-2 rounded bg-gray-100">
+                    <div className="mt-0.5 h-2 rounded bg-amber-100">
                       <div
-                        className="h-2 rounded bg-gray-800"
+                        className="h-2 rounded bg-amber-700"
                         style={{ width: `${(s.gmv / maxSku) * 100}%` }}
                       />
                     </div>
@@ -141,9 +141,9 @@ export default function AdminConsole() {
                       <span>{c.category}</span>
                       <span className="tabular-nums text-gray-500">{inr(c.amount)}</span>
                     </div>
-                    <div className="mt-0.5 h-2 rounded bg-gray-100">
+                    <div className="mt-0.5 h-2 rounded bg-amber-100">
                       <div
-                        className="h-2 rounded bg-amber-600"
+                        className="h-2 rounded bg-yellow-500"
                         style={{ width: `${(c.amount / maxCat) * 100}%` }}
                       />
                     </div>
@@ -190,7 +190,7 @@ export default function AdminConsole() {
                   </div>
                 </button>
                 {isOpen && (
-                  <div className="mt-3 grid gap-4 border-t border-gray-100 pt-3 md:grid-cols-2">
+                  <div className="mt-3 grid gap-4 border-t border-amber-100 pt-3 md:grid-cols-2">
                     <div>
                       <h4 className="mb-1 text-xs font-bold uppercase text-gray-500">Items</h4>
                       <OrderItems order={o} />
@@ -216,7 +216,7 @@ export default function AdminConsole() {
       {tab === "shops" && (
         <Card className="overflow-x-auto !p-0">
           <table className="w-full text-sm">
-            <thead className="bg-gray-50 text-left text-xs uppercase text-gray-500">
+            <thead className="bg-amber-50 text-left text-xs uppercase text-gray-500">
               <tr>
                 <th className="px-3 py-2">Shop</th>
                 <th className="px-3 py-2">Licence</th>
@@ -226,7 +226,7 @@ export default function AdminConsole() {
                 <th className="px-3 py-2 text-right">Action</th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-gray-100">
+            <tbody className="divide-y divide-amber-100">
               {boot.shops.map((s) => (
                 <tr key={s.id}>
                   <td className="px-3 py-2 font-medium">{s.name}</td>
@@ -285,7 +285,7 @@ export default function AdminConsole() {
                 <dd className="font-medium">Prepaid only</dd>
               </div>
             </dl>
-            <div className="mt-4 space-y-3 border-t border-gray-100 pt-3">
+            <div className="mt-4 space-y-3 border-t border-amber-100 pt-3">
               <label className="flex items-center justify-between text-sm">
                 <span>
                   <span className="font-medium">Dry day shutdown</span>

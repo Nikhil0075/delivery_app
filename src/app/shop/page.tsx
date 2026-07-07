@@ -130,10 +130,10 @@ export default function ShopPanel() {
           </div>
           <StatusBadge status={o.status} />
         </button>
-        <div className="mt-2 border-t border-gray-100 pt-2">
+        <div className="mt-2 border-t border-amber-100 pt-2">
           <OrderItems order={o} />
           {actions}
-          {isOpen && <div className="mt-3 border-t border-gray-100 pt-3"><Timeline order={o} /></div>}
+          {isOpen && <div className="mt-3 border-t border-amber-100 pt-3"><Timeline order={o} /></div>}
         </div>
       </Card>
     );
@@ -144,7 +144,7 @@ export default function ShopPanel() {
       <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
         <div>
           <select
-            className="rounded-lg border border-gray-300 bg-white px-2 py-1.5 text-sm font-semibold"
+            className="rounded-lg border border-amber-300 bg-white px-2 py-1.5 text-sm font-semibold"
             value={shopId}
             onChange={(e) => { setShopId(e.target.value); setOpenOrder(null); }}
           >
@@ -157,7 +157,7 @@ export default function ShopPanel() {
             Hours {shop?.hours.open}–{shop?.hours.close}
           </div>
         </div>
-        <div className="flex gap-1 rounded-xl bg-gray-200 p-1 text-sm font-medium">
+        <div className="flex gap-1 rounded-xl bg-amber-200/60 p-1 text-sm font-medium">
           {([["orders", `Orders${needsAction.length ? ` (${needsAction.length})` : ""}`],
             ["inventory", "Inventory"], ["settlement", "Settlement"]] as [Tab, string][]).map(
             ([t, label]) => (
@@ -195,7 +195,7 @@ export default function ShopPanel() {
                   <div className="mt-2 flex flex-wrap items-center gap-2">
                     <Btn small onClick={() => transition(o.id, { action: "accept" })}>Accept</Btn>
                     <select
-                      className="rounded border border-gray-300 bg-white px-2 py-1 text-xs"
+                      className="rounded border border-amber-300 bg-white px-2 py-1 text-xs"
                       defaultValue=""
                       onChange={(e) => {
                         if (e.target.value) transition(o.id, { action: "reject", reason: e.target.value });
@@ -207,7 +207,7 @@ export default function ShopPanel() {
                       ))}
                     </select>
                     <select
-                      className="rounded border border-gray-300 bg-white px-2 py-1 text-xs"
+                      className="rounded border border-amber-300 bg-white px-2 py-1 text-xs"
                       defaultValue=""
                       onChange={(e) => {
                         if (e.target.value !== "") {
@@ -300,13 +300,13 @@ export default function ShopPanel() {
               value={subSearch}
               onChange={(e) => setSubSearch(e.target.value)}
               placeholder="Search your catalog…"
-              className="mb-2 w-full rounded-lg border border-gray-300 px-3 py-2 text-sm"
+              className="mb-2 w-full rounded-lg border border-amber-300 px-3 py-2 text-sm"
             />
             <div className="max-h-64 space-y-1 overflow-y-auto">
               {subResults.map((r) => (
                 <button
                   key={r.id}
-                  className="flex w-full items-center justify-between rounded-lg px-2 py-1.5 text-left text-sm hover:bg-gray-100"
+                  className="flex w-full items-center justify-between rounded-lg px-2 py-1.5 text-left text-sm hover:bg-amber-100"
                   onClick={() => {
                     transition(subFor.orderId, {
                       action: "propose_substitution",
@@ -335,7 +335,7 @@ export default function ShopPanel() {
               value={invSearch}
               onChange={(e) => setInvSearch(e.target.value)}
               placeholder={`Search ${invTotal} SKUs…`}
-              className="w-full max-w-xs rounded-lg border border-gray-300 bg-white px-3 py-1.5 text-sm"
+              className="w-full max-w-xs rounded-lg border border-amber-300 bg-white px-3 py-1.5 text-sm"
             />
             <span className="text-xs text-gray-500">
               Showing {inv.length} of {invTotal} (CSV import mocked by generator script)
@@ -343,7 +343,7 @@ export default function ShopPanel() {
           </div>
           <Card className="overflow-x-auto !p-0">
             <table className="w-full text-sm">
-              <thead className="bg-gray-50 text-left text-xs uppercase text-gray-500">
+              <thead className="bg-amber-50 text-left text-xs uppercase text-gray-500">
                 <tr>
                   <th className="px-3 py-2">Product</th>
                   <th className="px-3 py-2">Category</th>
@@ -352,7 +352,7 @@ export default function ShopPanel() {
                   <th className="px-3 py-2 text-right">Sold (register)</th>
                 </tr>
               </thead>
-              <tbody className="divide-y divide-gray-100">
+              <tbody className="divide-y divide-amber-100">
                 {inv.slice(0, 60).map((e) => (
                   <tr key={e.id} className={e.stock === 0 ? "bg-red-50/50" : ""}>
                     <td className="max-w-[280px] truncate px-3 py-1.5" title={e.name}>{e.name}</td>
@@ -360,7 +360,7 @@ export default function ShopPanel() {
                     <td className="px-3 py-1.5 text-right">
                       <input
                         type="number"
-                        className="w-20 rounded border border-gray-200 px-1 py-0.5 text-right"
+                        className="w-20 rounded border border-amber-200 px-1 py-0.5 text-right"
                         defaultValue={e.price}
                         onBlur={(ev) => {
                           const v = Number(ev.target.value);
@@ -371,7 +371,7 @@ export default function ShopPanel() {
                     <td className="px-3 py-1.5 text-right">
                       <input
                         type="number"
-                        className="w-16 rounded border border-gray-200 px-1 py-0.5 text-right"
+                        className="w-16 rounded border border-amber-200 px-1 py-0.5 text-right"
                         defaultValue={e.stock}
                         onBlur={(ev) => {
                           const v = Number(ev.target.value);
@@ -411,7 +411,7 @@ export default function ShopPanel() {
           </div>
           <Card className="overflow-x-auto !p-0">
             <table className="w-full text-sm">
-              <thead className="bg-gray-50 text-left text-xs uppercase text-gray-500">
+              <thead className="bg-amber-50 text-left text-xs uppercase text-gray-500">
                 <tr>
                   <th className="px-3 py-2">Order</th>
                   <th className="px-3 py-2">Date</th>
@@ -420,7 +420,7 @@ export default function ShopPanel() {
                   <th className="px-3 py-2 text-right">Net</th>
                 </tr>
               </thead>
-              <tbody className="divide-y divide-gray-100">
+              <tbody className="divide-y divide-amber-100">
                 {(settlement?.rows ?? []).map((r) => (
                   <tr key={r.orderId}>
                     <td className="px-3 py-1.5 font-medium">{r.code}</td>

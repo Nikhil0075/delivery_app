@@ -7,7 +7,7 @@ export function StatusBadge({ status }: { status: string }) {
   return (
     <span
       className={`inline-block rounded-full px-2.5 py-0.5 text-xs font-semibold whitespace-nowrap ${
-        STATUS_COLOR[status] ?? "bg-gray-100 text-gray-700"
+        STATUS_COLOR[status] ?? "bg-amber-100 text-amber-900"
       }`}
     >
       {STATUS_LABEL[status] ?? status}
@@ -23,7 +23,7 @@ export function Card({
   className?: string;
 }) {
   return (
-    <div className={`rounded-xl border border-gray-200 bg-white p-4 shadow-sm ${className}`}>
+    <div className={`rounded-xl border border-amber-200 bg-white p-4 shadow-sm ${className}`}>
       {children}
     </div>
   );
@@ -43,10 +43,10 @@ export function Btn({
   small?: boolean;
 }) {
   const kinds = {
-    primary: "bg-gray-900 text-white hover:bg-gray-700",
-    secondary: "bg-white border border-gray-300 text-gray-800 hover:bg-gray-50",
+    primary: "bg-amber-700 text-white hover:bg-amber-600",
+    secondary: "bg-white border border-amber-300 text-gray-800 hover:bg-amber-50",
     danger: "bg-red-600 text-white hover:bg-red-500",
-    ghost: "text-gray-600 hover:bg-gray-100",
+    ghost: "text-gray-600 hover:bg-amber-100",
   };
   return (
     <button
@@ -63,7 +63,7 @@ export function Btn({
 
 export function OrderItems({ order }: { order: Order }) {
   return (
-    <ul className="divide-y divide-gray-100 text-sm">
+    <ul className="divide-y divide-amber-100 text-sm">
       {order.items.map((it, i) => (
         <li key={i} className="flex justify-between gap-2 py-1.5">
           <span>
@@ -96,7 +96,7 @@ export function FeeBreakdown({ order }: { order: Order }) {
         <span>Convenience fee</span>
         <span className="tabular-nums">{inr(order.convenienceFee)}</span>
       </div>
-      <div className="flex justify-between border-t border-gray-200 pt-1 font-semibold text-gray-900">
+      <div className="flex justify-between border-t border-amber-200 pt-1 font-semibold text-gray-900">
         <span>Total paid</span>
         <span className="tabular-nums">{inr(order.total)}</span>
       </div>
@@ -109,7 +109,7 @@ export function Timeline({ order }: { order: Order }) {
     <ol className="space-y-2">
       {order.events.map((e, i) => (
         <li key={i} className="flex gap-3 text-sm">
-          <span className="mt-1 h-2 w-2 shrink-0 rounded-full bg-gray-400" />
+          <span className="mt-1 h-2 w-2 shrink-0 rounded-full bg-amber-500" />
           <div>
             <span className="font-medium">{e.type.replaceAll("_", " ")}</span>
             <span className="ml-2 text-xs text-gray-500">
@@ -131,7 +131,7 @@ export function Timeline({ order }: { order: Order }) {
 
 export function Empty({ text }: { text: string }) {
   return (
-    <div className="rounded-xl border border-dashed border-gray-300 p-8 text-center text-sm text-gray-500">
+    <div className="rounded-xl border border-dashed border-amber-300 p-8 text-center text-sm text-gray-500">
       {text}
     </div>
   );

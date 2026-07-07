@@ -62,7 +62,7 @@ export default function RiderApp() {
     <main className="mx-auto max-w-md px-4 pb-16 pt-4">
       <div className="mb-4 flex items-center justify-between gap-2">
         <select
-          className="rounded-lg border border-gray-300 bg-white px-2 py-1.5 text-sm font-semibold"
+          className="rounded-lg border border-amber-300 bg-white px-2 py-1.5 text-sm font-semibold"
           value={riderId}
           onChange={(e) => setRiderId(e.target.value)}
         >
@@ -70,7 +70,7 @@ export default function RiderApp() {
             <option key={r.id} value={r.id}>{r.name} · {r.vehicleNo}</option>
           ))}
         </select>
-        <div className="flex gap-1 rounded-xl bg-gray-200 p-1 text-sm font-medium">
+        <div className="flex gap-1 rounded-xl bg-amber-200/60 p-1 text-sm font-medium">
           {(["tasks", "earnings"] as const).map((t) => (
             <button
               key={t}
@@ -135,7 +135,7 @@ export default function RiderApp() {
                       📍 {custName(o.customerId)} — {addressOf(o)?.line1}, {addressOf(o)?.area}
                     </div>
                   </div>
-                  <div className="mt-2 border-t border-gray-100 pt-2">
+                  <div className="mt-2 border-t border-amber-100 pt-2">
                     <OrderItems order={o} />
                   </div>
 
@@ -176,7 +176,7 @@ export default function RiderApp() {
                           }
                           placeholder="4-digit OTP"
                           maxLength={4}
-                          className="w-28 rounded-lg border border-gray-300 px-2 py-1.5 text-center text-sm tracking-widest"
+                          className="w-28 rounded-lg border border-amber-300 px-2 py-1.5 text-center text-sm tracking-widest"
                         />
                         <Btn
                           small

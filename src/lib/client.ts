@@ -66,7 +66,7 @@ export const STATUS_COLOR: Record<string, string> = {
   PICKED_UP: "bg-indigo-100 text-indigo-800",
   DELIVERED: "bg-green-100 text-green-800",
   REJECTED: "bg-red-100 text-red-800",
-  CANCELLED: "bg-gray-200 text-gray-700",
+  CANCELLED: "bg-stone-200 text-stone-700",
   VERIFICATION_FAILED: "bg-red-100 text-red-800",
 };
 

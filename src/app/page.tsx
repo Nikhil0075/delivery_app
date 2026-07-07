@@ -173,7 +173,7 @@ export default function CustomerApp() {
         <div>
           Deliver to{" "}
           <select
-            className="rounded border border-gray-300 bg-white px-1 py-0.5 font-medium"
+            className="rounded border border-amber-300 bg-white px-1 py-0.5 font-medium"
             value={addressId}
             onChange={(e) => setAddressId(e.target.value)}
           >
@@ -183,7 +183,7 @@ export default function CustomerApp() {
           </select>
         </div>
         <select
-          className="rounded border border-gray-300 bg-white px-1 py-0.5"
+          className="rounded border border-amber-300 bg-white px-1 py-0.5"
           value={customerId}
           onChange={(e) => {
             const c = boot.customers.find((x) => x.id === e.target.value)!;
@@ -212,7 +212,7 @@ export default function CustomerApp() {
       )}
 
       {/* tabs */}
-      <div className="mb-4 flex gap-1 rounded-xl bg-gray-200 p-1 text-sm font-medium">
+      <div className="mb-4 flex gap-1 rounded-xl bg-amber-200/60 p-1 text-sm font-medium">
         {([
           ["shops", "Shops"],
           ["browse", shop ? shop.name.split(" ")[0] : "Browse"],
@@ -282,13 +282,13 @@ export default function CustomerApp() {
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder={`Search ${totalEntries} products at ${shop.name}…`}
-            className="mb-3 w-full rounded-xl border border-gray-300 bg-white px-3 py-2 text-sm"
+            className="mb-3 w-full rounded-xl border border-amber-300 bg-white px-3 py-2 text-sm"
           />
           <div className="mb-3 flex gap-1.5 overflow-x-auto pb-1">
             <button
               onClick={() => setCategory(null)}
               className={`shrink-0 rounded-full px-3 py-1 text-xs font-medium ${
-                !category ? "bg-gray-900 text-white" : "bg-white border border-gray-300"
+                !category ? "bg-amber-700 text-white" : "bg-white border border-amber-300"
               }`}
             >
               All
@@ -298,7 +298,7 @@ export default function CustomerApp() {
                 key={c}
                 onClick={() => setCategory(category === c ? null : c)}
                 className={`shrink-0 rounded-full px-3 py-1 text-xs font-medium ${
-                  category === c ? "bg-gray-900 text-white" : "bg-white border border-gray-300"
+                  category === c ? "bg-amber-700 text-white" : "bg-white border border-amber-300"
                 }`}
               >
                 {CATEGORY_EMOJI[c]} {c.charAt(0) + c.slice(1).toLowerCase()}
@@ -355,7 +355,7 @@ export default function CustomerApp() {
             <>
               <Card>
                 <div className="mb-2 text-sm font-semibold">{shop?.name}</div>
-                <ul className="divide-y divide-gray-100 text-sm">
+                <ul className="divide-y divide-amber-100 text-sm">
                   {cart.map((l) => (
                     <li key={l.productId} className="flex items-center justify-between gap-2 py-2">
                       <span className="min-w-0 truncate">{l.name}</span>
@@ -379,7 +379,7 @@ export default function CustomerApp() {
                   <div className="flex justify-between"><span>Subtotal</span><span>{inr(cartTotal)}</span></div>
                   <div className="flex justify-between"><span>Delivery fee</span><span>{inr(boot.stateConfig.deliveryFee)}</span></div>
                   <div className="flex justify-between"><span>Convenience fee</span><span>{inr(boot.stateConfig.convenienceFee)}</span></div>
-                  <div className="flex justify-between border-t border-gray-200 pt-1 font-semibold text-gray-900">
+                  <div className="flex justify-between border-t border-amber-200 pt-1 font-semibold text-gray-900">
                     <span>To pay</span>
                     <span>{inr(cartTotal + boot.stateConfig.deliveryFee + boot.stateConfig.convenienceFee)}</span>
                   </div>
@@ -419,7 +419,7 @@ export default function CustomerApp() {
                 </button>
 
                 {isOpen && (
-                  <div className="mt-3 space-y-3 border-t border-gray-100 pt-3">
+                  <div className="mt-3 space-y-3 border-t border-amber-100 pt-3">
                     <OrderItems order={o} />
                     <FeeBreakdown order={o} />
 
@@ -475,7 +475,7 @@ export default function CustomerApp() {
         <div className="fixed inset-x-0 bottom-0 z-30 mx-auto max-w-md p-3">
           <button
             onClick={() => setView("cart")}
-            className="flex w-full items-center justify-between rounded-xl bg-gray-900 px-4 py-3 text-sm font-semibold text-white shadow-lg"
+            className="flex w-full items-center justify-between rounded-xl bg-gradient-to-r from-amber-800 to-amber-600 px-4 py-3 text-sm font-semibold text-white shadow-lg"
           >
             <span>{cartCount} item{cartCount > 1 ? "s" : ""} · {inr(cartTotal)}</span>
             <span>View cart →</span>

@@ -20,12 +20,12 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className="h-full antialiased">
-      <body className="min-h-full bg-gray-100 text-gray-900">
-        <header className="sticky top-0 z-40 border-b border-gray-200 bg-white">
+      <body className="min-h-full text-stone-900">
+        <header className="sticky top-0 z-40 border-b border-amber-200 bg-[#fffaf0]">
           <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-2.5">
             <div className="flex items-center gap-2">
               <span className="text-lg">🛵</span>
-              <span className="text-sm font-bold tracking-tight">
+              <span className="text-sm font-bold tracking-tight text-amber-950">
                 BBSR Liquor Delivery
                 <span className="ml-2 rounded bg-amber-100 px-1.5 py-0.5 text-[10px] font-semibold text-amber-800">
                   PROTOTYPE · MOCK DATA
@@ -37,7 +37,7 @@ export default function RootLayout({
                 <Link
                   key={p.href}
                   href={p.href}
-                  className="rounded-lg px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100 hover:text-gray-900"
+                  className="rounded-lg px-3 py-1.5 font-medium text-stone-600 hover:bg-amber-100 hover:text-amber-900"
                 >
                   {p.label}
                 </Link>
