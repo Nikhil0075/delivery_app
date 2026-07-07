@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getDb, saveDb } from "@/lib/store";
+import { ensureFresh, getDb, persistDb } from "@/lib/store";
 
 export const dynamic = "force-dynamic";
 
@@ -9,6 +9,7 @@ export async function PATCH(
 ) {
   const { id } = await ctx.params;
   const { status } = await req.json();
+  await ensureFresh(0);
   const db = getDb();
   const shop = db.shops.find((s) => s.id === id);
   if (!shop) return NextResponse.json({ error: "Unknown shop" }, { status: 404 });
@@ -16,6 +17,6 @@ export async function PATCH(
     return NextResponse.json({ error: "Bad status" }, { status: 400 });
   }
   shop.status = status;
-  saveDb();
+  await persistDb();
   return NextResponse.json({ shop });
 }

@@ -4,6 +4,6 @@ import { resetDb } from "@/lib/store";
 export const dynamic = "force-dynamic";
 
 export async function POST() {
-  resetDb();
+  await resetDb();
   return NextResponse.json({ ok: true });
 }

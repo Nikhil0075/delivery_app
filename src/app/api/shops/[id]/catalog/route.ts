@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getDb } from "@/lib/store";
+import { ensureFresh, getDb } from "@/lib/store";
 import { catalogEntries } from "@/lib/logic";
 
 export const dynamic = "force-dynamic";
@@ -9,6 +9,7 @@ export async function GET(
   ctx: { params: Promise<{ id: string }> },
 ) {
   const { id } = await ctx.params;
+  await ensureFresh();
   const db = getDb();
   if (!db.shops.some((s) => s.id === id)) {
     return NextResponse.json({ error: "Unknown shop" }, { status: 404 });

@@ -22,14 +22,30 @@ export async function api<T>(path: string, init?: RequestInit): Promise<T> {
   return data as T;
 }
 
-/** Poll a refetch function every `ms`, immediately on mount and deps change. */
+/**
+ * Poll a refetch function every `ms`, immediately on mount and deps change.
+ * Browsers throttle timers in background tabs, so also refetch the instant
+ * the tab regains focus/visibility — otherwise data looks stale after
+ * switching between the persona tabs.
+ */
 export function usePoll(fn: () => void, deps: unknown[], ms = 3000): void {
   const ref = useRef(fn);
   ref.current = fn;
   useEffect(() => {
     ref.current();
-    const t = setInterval(() => ref.current(), ms);
-    return () => clearInterval(t);
+    const t = setInterval(() => {
+      if (!document.hidden) ref.current();
+    }, ms);
+    const onWake = () => {
+      if (!document.hidden) ref.current();
+    };
+    window.addEventListener("focus", onWake);
+    document.addEventListener("visibilitychange", onWake);
+    return () => {
+      clearInterval(t);
+      window.removeEventListener("focus", onWake);
+      document.removeEventListener("visibilitychange", onWake);
+    };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, deps);
 }

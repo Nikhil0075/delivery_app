@@ -72,7 +72,8 @@ export default function CustomerApp() {
       .catch(() => {});
   }, [shopId, search, category]);
 
-  useEffect(() => { loadCatalog(); }, [loadCatalog]);
+  // poll the catalog too, so stock edits and other buyers' orders show up
+  usePoll(loadCatalog, [loadCatalog], 5000);
 
   const cartTotal = cart.reduce((s, l) => s + l.price * l.qty, 0);
   const cartCount = cart.reduce((s, l) => s + l.qty, 0);

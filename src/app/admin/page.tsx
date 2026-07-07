@@ -177,7 +177,7 @@ export default function AdminConsole() {
                   onClick={() => setOpenOrder(isOpen ? null : o.id)}
                 >
                   <div className="flex min-w-0 items-center gap-3">
-                    <span className="text-sm font-semibold">{o.code}</span>
+                    <span className="whitespace-nowrap text-sm font-semibold">{o.code}</span>
                     <span className="truncate text-xs text-gray-500">
                       {cust?.name} ← {shop?.name}
                       {rider ? ` · 🛵 ${rider.name}` : ""}

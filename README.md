@@ -17,6 +17,16 @@ No database server — state lives in `data/db.json` (created on first run from
 the generated seed files, survives restarts). Reset it anytime from
 **Admin → Compliance → Reset demo data**.
 
+### Hosted persistence (Vercel)
+
+On Vercel the filesystem is read-only, so by default each serverless instance
+keeps its own in-memory state (resets on cold start). For durable, shared
+state across instances, add a Redis store: Vercel dashboard → your project →
+**Storage → Create Database → Upstash for Redis**. The REST env vars
+(`KV_REST_API_URL`/`KV_REST_API_TOKEN` or `UPSTASH_REDIS_REST_URL`/`_TOKEN`)
+are injected automatically — redeploy and every instance reads/writes the
+same copy.
+
 ## The four personas
 
 | Route | Persona | What you can do |

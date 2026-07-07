@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getDb } from "@/lib/store";
+import { ensureFresh, getDb, persistDb } from "@/lib/store";
 import { createOrder } from "@/lib/logic";
 
 export const dynamic = "force-dynamic";
@@ -9,6 +9,7 @@ export async function GET(req: NextRequest) {
   const customerId = q.get("customerId");
   const shopId = q.get("shopId");
   const riderId = q.get("riderId");
+  await ensureFresh();
   const db = getDb();
 
   let orders = db.orders;
@@ -28,7 +29,9 @@ export async function GET(req: NextRequest) {
 
 export async function POST(req: NextRequest) {
   const body = await req.json();
+  await ensureFresh(0);
   const { order, error } = createOrder(body);
   if (error) return NextResponse.json({ error }, { status: 400 });
+  await persistDb();
   return NextResponse.json({ order }, { status: 201 });
 }

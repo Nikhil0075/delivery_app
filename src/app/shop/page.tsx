@@ -55,15 +55,15 @@ export default function ShopPanel() {
       .catch(() => {});
   }, [shopId, invSearch]);
 
-  useEffect(() => {
+  usePoll(() => {
     if (tab === "inventory") loadInventory();
-  }, [tab, loadInventory]);
+  }, [tab, loadInventory], 5000);
 
-  useEffect(() => {
+  usePoll(() => {
     if (tab === "settlement") {
       api<Settlement>(`/api/settlements?shopId=${shopId}`).then(setSettlement).catch(() => {});
     }
-  }, [tab, shopId, orders.length]);
+  }, [tab, shopId], 5000);
 
   useEffect(() => {
     if (!subFor) return;

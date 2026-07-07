@@ -27,7 +27,7 @@ python scripts/generate_shops.py   # shops/catalogs/seed derived from the extrac
 
 ## Architecture
 
-**No database.** `src/lib/store.ts` holds a singleton in-memory `Db` (stashed on `globalThis` to survive dev HMR), hydrated from the generated `data/*.json` seeds on first access; every mutation rewrites `data/db.json` (gitignored). To reset live state: delete `data/db.json` or use Admin → Compliance → Reset demo data.
+**No database server.** `src/lib/store.ts` holds a singleton in-memory `Db` (stashed on `globalThis` to survive dev HMR), hydrated from the generated `data/*.json` seeds on first access; mutations rewrite `data/db.json` locally (gitignored). When `KV_REST_API_URL`/`KV_REST_API_TOKEN` (or the `UPSTASH_REDIS_REST_*` pair) exist, the whole `Db` is also mirrored to that Redis REST store so all serverless instances share one copy. Route contract: GET handlers `await ensureFresh()` before reading; mutation handlers `await ensureFresh(0)` before calling logic and `await persistDb()` before responding — follow this in any new route. To reset live state: delete `data/db.json` or use Admin → Compliance → Reset demo data.
 
 **All domain logic is in `src/lib/logic.ts`** — API routes under `src/app/api/` are thin wrappers around it:
 - `createOrder` validates compliance + stock, reserves stock, generates the OTP.
